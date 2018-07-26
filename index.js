@@ -1,8 +1,8 @@
 'use strict';
 
 const Alexa = require('alexa-sdk');
-const story = 'Trapped in France.html';
-const TableName = story.replace('.html','').replace(/\s/g, "-");
+const story = 'Trapped in France.JSON';
+const TableName = story.replace('.JSON','').replace(/\s/g, "-");
 var $twine = null;
 const linksRegex = /\[\[([^\|\]]*)\|?([^\]]*)\]\]/g;
 const welcomeGreetings = ['Hello,']; // Array of items for welcome greetings
