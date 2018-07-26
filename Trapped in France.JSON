@@ -1,0 +1,3975 @@
+{
+  "passages": [
+    {
+      "text": "You’re <emphasis level=\"moderate\">finally in France</emphasis>, you were dreaming about this trip <emphasis level=\"moderate\">for years</emphasis>.\nYou rent a car and you're gonna visit the Versailles castle.\n\n<break time=\"0.5s\"/>\n\nAs you’re taking a small country road, the car makes weird noises, and suddenly, the car shuts off! You try to start it again, but the car sputters out. <say-as interpret-as=\"interjection\">uh oh!</say-as>\nYou start walking.\n<audio src='https://s3.amazonaws.com/ask-soundlibrary/human/amzn_sfx_human_walking_01.mp3'/>\n\nA couple of miles later, you're in a forest, it's dark and you’re getting cold.\n<audio src='https://s3.amazonaws.com/ask-soundlibrary/nature/amzn_sfx_strong_wind_desert_01.mp3'/>\nYou notice a <emphasis level=\"moderate\">large dwelling</emphasis> with a <prosody pitch=\"low\">haunted look</prosody>.\n\nSay [[get closer|The outside of the castle]] to continue.",
+      "links": [
+        {
+          "name": "get closer|The outside of the castle",
+          "link": "get closer|The outside of the castle"
+        }
+      ],
+      "name": "Arrived in France",
+      "pid": "1",
+      "position": {
+        "x": "299",
+        "y": "0"
+      }
+    },
+    {
+      "text": "Okay, let's go to the garage.\nOr <audio src='https://s3.amazonaws.com/myadventurezlatoupan/le_garage_femme.mp3'/> in French.\n<audio src='https://s3.amazonaws.com/ask-soundlibrary/foley/amzn_sfx_wooden_door_creaks_long_01.mp3'/>\nIt's dark. You try to turn on the light, but it's not working.\nYou see a little elevator door. You press on the button, but it won't work without electricity.\n\nWhat do you want to do?\nYou can say [[look right|The shelf in the garage]], or, [[look left|The electrical panel in the garage]]",
+      "links": [
+        {
+          "name": "look right|The shelf in the garage",
+          "link": "look right|The shelf in the garage"
+        },
+        {
+          "name": "look left|The electrical panel in the garage",
+          "link": "look left|The electrical panel in the garage"
+        }
+      ],
+      "name": "Garage",
+      "pid": "2",
+      "position": {
+        "x": "1104",
+        "y": "841"
+      }
+    },
+    {
+      "text": "\"Okay! Let’s go to the living room. Or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/le_salon_femme.mp3'/> in French.\n<audio src='https://s3.amazonaws.com/ask-soundlibrary/foley/amzn_sfx_wooden_door_creaks_long_01.mp3'/>\nInside, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/le_salon_femme.mp3'/>\nyou see: a locked cabinet. \nYou try to open it, but it won't open without a key.\nWhat do you want to do? \nYou can say [[look right|The desk in the living room]], or, [[look left|The sofa in the living room]].",
+      "links": [
+        {
+          "name": "look right|The desk in the living room",
+          "link": "look right|The desk in the living room"
+        },
+        {
+          "name": "look left|The sofa in the living room",
+          "link": "look left|The sofa in the living room"
+        }
+      ],
+      "name": "Living room",
+      "pid": "3",
+      "position": {
+        "x": "299",
+        "y": "828"
+      }
+    },
+    {
+      "text": "Okay, let's go to the terrace, or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/la_terrasse_femme.mp3'/>, in French.\nYou enter <audio src='https://s3.amazonaws.com/myadventurezlatoupan/la_terrasse_femme.mp3'/> and everything is <emphasis level=\"moderate\">colored black.</emphasis>\nYou see: <emphasis level=\"moderate\">a hatch on the ground</emphasis>, that needs a key to be opened.\nYou can say, [[look right|The table and chairs in the terrace]], or, [[look left|The strongbox in the terrace]].",
+      "links": [
+        {
+          "name": "look right|The table and chairs in the terrace",
+          "link": "look right|The table and chairs in the terrace"
+        },
+        {
+          "name": "look left|The strongbox in the terrace",
+          "link": "look left|The strongbox in the terrace"
+        }
+      ],
+      "name": "Terrace",
+      "pid": "4",
+      "position": {
+        "x": "1899",
+        "y": "844"
+      }
+    },
+    {
+      "text": "On the left, there is a nice sofa. Between the cushions, you see a small box.\nSay [[look at box|The box in the living room]], to look closer.",
+      "links": [
+        {
+          "name": "look at box|The box in the living room",
+          "link": "look at box|The box in the living room"
+        }
+      ],
+      "name": "The sofa in the living room",
+      "pid": "5",
+      "position": {
+        "x": "400",
+        "y": "950"
+      }
+    },
+    {
+      "text": "On the right, you see an artisanal desk made of cedar wood, with an old computer, and a pile of dusty documents.\nDo you want to  [[look at documents|The documents in the living room]]? Or [[look at computer|The computer in living the room]]?",
+      "links": [
+        {
+          "name": "look at documents|The documents in the living room",
+          "link": "look at documents|The documents in the living room"
+        },
+        {
+          "name": "look at computer|The computer in living the room",
+          "link": "look at computer|The computer in living the room"
+        }
+      ],
+      "name": "The desk in the living room",
+      "pid": "6",
+      "position": {
+        "x": "200",
+        "y": "950"
+      }
+    },
+    {
+      "text": "On the top right corner of the document <audio src='https://s3.amazonaws.com/ask-soundlibrary/foley/amzn_sfx_glasses_clink_01.mp3'/> you can see three round stickers: \n<prosody rate=\"slow\">a blue one, a grey one, and an orange one.</prosody> Below them, it's written: <audio src='https://s3.amazonaws.com/myadventurezlatoupan/bleu_gris_orange_femme.mp3'/> \n\nSo that must means, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/bleu_femme.mp3'/> is, blue. <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gris_femme.mp3'/> is, grey. And <audio src='https://s3.amazonaws.com/myadventurezlatoupan/orange_femme.mp3'/> is, orange.\n\nNow, you can say [[look at computer|The computer in living the room]].",
+      "links": [
+        {
+          "name": "look at computer|The computer in living the room",
+          "link": "look at computer|The computer in living the room"
+        }
+      ],
+      "name": "The documents in the living room",
+      "pid": "7",
+      "position": {
+        "x": "202",
+        "y": "1075"
+      }
+    },
+    {
+      "text": "On the box, you see a combination lock in the form of a compass. You need to turn the compass three times in the correct directions between:\nNorth <audio src='https://s3.amazonaws.com/myadventurezlatoupan/nord_femme.mp3'/> East <audio src='https://s3.amazonaws.com/myadventurezlatoupan/est_femme.mp3'/> South <audio src='https://s3.amazonaws.com/myadventurezlatoupan/sud_femme.mp3'/> Or, West <audio src='https://s3.amazonaws.com/myadventurezlatoupan/ouest_femme.mp3'/> \n\nYou can say [[enter code|First code of the box in the living room]] to try a code.\nOtherwise, if you didn't see any clue yet, say [[look right|The desk in the living room]].",
+      "links": [
+        {
+          "name": "enter code|First code of the box in the living room",
+          "link": "enter code|First code of the box in the living room"
+        },
+        {
+          "name": "look right|The desk in the living room",
+          "link": "look right|The desk in the living room"
+        }
+      ],
+      "name": "The box in the living room",
+      "pid": "8",
+      "position": {
+        "x": "400",
+        "y": "1075"
+      }
+    },
+    {
+      "text": "What is the first direction?\n\nIs it <audio src='https://s3.amazonaws.com/myadventurezlatoupan/nord_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/est_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/sud_femme.mp3'/>\n\nYou can say: [[nord|Second code of the box in the living room]], [[este|Second code of the box in the living room]], or, [[seud|The second code of the box in the living room]]",
+      "links": [
+        {
+          "name": "nord|Second code of the box in the living room",
+          "link": "nord|Second code of the box in the living room"
+        },
+        {
+          "name": "este|Second code of the box in the living room",
+          "link": "este|Second code of the box in the living room"
+        },
+        {
+          "name": "seud|The second code of the box in the living room",
+          "link": "seud|The second code of the box in the living room"
+        }
+      ],
+      "name": "First code of the box in the living room",
+      "pid": "9",
+      "position": {
+        "x": "399",
+        "y": "1199"
+      }
+    },
+    {
+      "text": "What is the second direction of the code?\n\nIs it <audio src='https://s3.amazonaws.com/myadventurezlatoupan/nord_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/est_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/sud_femme.mp3'/>\n\nYou can say: [[nord|Third code of the box in the living room]], or, [[este|The third code of the box in the living room]], or, [[seud|Third code of the box in the living room]]",
+      "links": [
+        {
+          "name": "nord|Third code of the box in the living room",
+          "link": "nord|Third code of the box in the living room"
+        },
+        {
+          "name": "este|The third code of the box in the living room",
+          "link": "este|The third code of the box in the living room"
+        },
+        {
+          "name": "seud|Third code of the box in the living room",
+          "link": "seud|Third code of the box in the living room"
+        }
+      ],
+      "name": "The second code of the box in the living room",
+      "pid": "10",
+      "position": {
+        "x": "398",
+        "y": "1313"
+      }
+    },
+    {
+      "text": "What is the third direction of the code?\n\nIs it <audio src='https://s3.amazonaws.com/myadventurezlatoupan/nord_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/est_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/sud_femme.mp3'/>\n\nYou can say: [[nord|The opened box in the living room]], or, [[este|The closed box in the living room]], or, [[seud|The closed box in the living room]]",
+      "links": [
+        {
+          "name": "nord|The opened box in the living room",
+          "link": "nord|The opened box in the living room"
+        },
+        {
+          "name": "este|The closed box in the living room",
+          "link": "este|The closed box in the living room"
+        },
+        {
+          "name": "seud|The closed box in the living room",
+          "link": "seud|The closed box in the living room"
+        }
+      ],
+      "name": "The third code of the box in the living room",
+      "pid": "11",
+      "position": {
+        "x": "398",
+        "y": "1539"
+      }
+    },
+    {
+      "text": "<say-as interpret-as=\"interjection\">Well done!</say-as>\nThe box opens and you see a key inside. <audio src='https://s3.amazonaws.com/myadventurezlatoupan/lumiere_femme.mp3'/> is so happy, he yells: <audio src='https://s3.amazonaws.com/myadventurezlatoupan/la_cle_the_key_you_found_it.mp3'/> You go forward and open the door. \n\nBehind the door, you find a clock asleep in a small bed. Thanks to you the clock named <audio src='https://s3.amazonaws.com/myadventurezlatoupan/horloge_femme.mp3'/> is free. She is really glad you saved her, she tells you: thank you.\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/merci_femme.mp3'/>\n\nSay [[merci|The living room is unlocked]], back to her.",
+      "links": [
+        {
+          "name": "merci|The living room is unlocked",
+          "link": "merci|The living room is unlocked"
+        }
+      ],
+      "name": "The opened box in the living room",
+      "pid": "12",
+      "position": {
+        "x": "399",
+        "y": "1885"
+      }
+    },
+    {
+      "text": "What is the second direction of the code?\n\nIs it <audio src='https://s3.amazonaws.com/myadventurezlatoupan/nord_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/est_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/sud_femme.mp3'/>\n\nYou can say: [[nord|Third code of the box in the living room]], or, [[este|Third code of the box in the living room]], or, [[seud|Third code of the box in the living room]]",
+      "links": [
+        {
+          "name": "nord|Third code of the box in the living room",
+          "link": "nord|Third code of the box in the living room"
+        },
+        {
+          "name": "este|Third code of the box in the living room",
+          "link": "este|Third code of the box in the living room"
+        },
+        {
+          "name": "seud|Third code of the box in the living room",
+          "link": "seud|Third code of the box in the living room"
+        }
+      ],
+      "name": "Second code of the box in the living room",
+      "pid": "13",
+      "position": {
+        "x": "398",
+        "y": "1428"
+      }
+    },
+    {
+      "text": "What is the third direction of the code?\n\nIs it <audio src='https://s3.amazonaws.com/myadventurezlatoupan/nord_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/est_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/sud_femme.mp3'/>\n\nYou can say: [[nord|The closed box in the living room]], or, [[este|The closed box in the living room]], or, [[seud|The closed box in the living room]]",
+      "links": [
+        {
+          "name": "nord|The closed box in the living room",
+          "link": "nord|The closed box in the living room"
+        },
+        {
+          "name": "este|The closed box in the living room",
+          "link": "este|The closed box in the living room"
+        },
+        {
+          "name": "seud|The closed box in the living room",
+          "link": "seud|The closed box in the living room"
+        }
+      ],
+      "name": "Third code of the box in the living room",
+      "pid": "14",
+      "position": {
+        "x": "400",
+        "y": "1650"
+      }
+    },
+    {
+      "text": "The box won't open because the code is not correct. \n\nDo you want to [[try again|First code of the box in the living room again]]? Or, if you didn't find a clue yet say: look [[right|The desk in the living room]]",
+      "links": [
+        {
+          "name": "try again|First code of the box in the living room again",
+          "link": "try again|First code of the box in the living room again"
+        },
+        {
+          "name": "right|The desk in the living room",
+          "link": "right|The desk in the living room"
+        }
+      ],
+      "name": "The closed box in the living room",
+      "pid": "15",
+      "position": {
+        "x": "396",
+        "y": "1765"
+      }
+    },
+    {
+      "text": "You turn on the computer and it asks for a three color access code.\nSay [[enter code|First code of the computer in living the room]] to try a code. Or, if you didn't see any clue yet, you can [[look at documents|The documents in the living room]].",
+      "links": [
+        {
+          "name": "enter code|First code of the computer in living the room",
+          "link": "enter code|First code of the computer in living the room"
+        },
+        {
+          "name": "look at documents|The documents in the living room",
+          "link": "look at documents|The documents in the living room"
+        }
+      ],
+      "name": "The computer in living the room",
+      "pid": "16",
+      "position": {
+        "x": "200",
+        "y": "1200"
+      }
+    },
+    {
+      "text": "What is the first color of the three-color access code?\n\nIs it <audio src='https://s3.amazonaws.com/myadventurezlatoupan/orange_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gris_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/bleu_femme.mp3'/>\n\nYou can say:<prosody rate=\"x-slow\"> [[orange|Second code of the computer in the living room]], or, [[gree|Second code of the computer in the living room]], or, [[bleu|The second code of the computer in the living room]]</prosody>",
+      "links": [
+        {
+          "name": "orange|Second code of the computer in the living room",
+          "link": "orange|Second code of the computer in the living room"
+        },
+        {
+          "name": "gree|Second code of the computer in the living room",
+          "link": "gree|Second code of the computer in the living room"
+        },
+        {
+          "name": "bleu|The second code of the computer in the living room",
+          "link": "bleu|The second code of the computer in the living room"
+        }
+      ],
+      "name": "First code of the computer in living the room",
+      "pid": "17",
+      "position": {
+        "x": "211",
+        "y": "1315"
+      }
+    },
+    {
+      "text": "What is the second color?\n\nIs it <audio src='https://s3.amazonaws.com/myadventurezlatoupan/orange_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gris_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/bleu_femme.mp3'/>\n\nYou can say:<prosody rate=\"x-slow\"> [[orange|Third code of the computer in the living room]], or, [[gree|Third code of the computer in the living room]], or, [[bleu|Third code of the computer in the living room]]</prosody>",
+      "links": [
+        {
+          "name": "orange|Third code of the computer in the living room",
+          "link": "orange|Third code of the computer in the living room"
+        },
+        {
+          "name": "gree|Third code of the computer in the living room",
+          "link": "gree|Third code of the computer in the living room"
+        },
+        {
+          "name": "bleu|Third code of the computer in the living room",
+          "link": "bleu|Third code of the computer in the living room"
+        }
+      ],
+      "name": "Second code of the computer in the living room",
+      "pid": "18",
+      "position": {
+        "x": "211",
+        "y": "1543"
+      }
+    },
+    {
+      "text": "What is the second color?\n\nIs it <audio src='https://s3.amazonaws.com/myadventurezlatoupan/orange_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gris_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/bleu_femme.mp3'/>\n\nYou can say:<prosody rate=\"x-slow\"> [[orange|Third code of the computer in the living room]], or, [[gree|The third code of the computer in the living room]], or, [[bleu|Third code of the computer in the living room]]</prosody>",
+      "links": [
+        {
+          "name": "orange|Third code of the computer in the living room",
+          "link": "orange|Third code of the computer in the living room"
+        },
+        {
+          "name": "gree|The third code of the computer in the living room",
+          "link": "gree|The third code of the computer in the living room"
+        },
+        {
+          "name": "bleu|Third code of the computer in the living room",
+          "link": "bleu|Third code of the computer in the living room"
+        }
+      ],
+      "name": "The second code of the computer in the living room",
+      "pid": "19",
+      "position": {
+        "x": "214",
+        "y": "1430"
+      }
+    },
+    {
+      "text": "What is the third color?\n\nIs it <audio src='https://s3.amazonaws.com/myadventurezlatoupan/orange_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gris_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/bleu_femme.mp3'/>\n\nYou can say:<prosody rate=\"x-slow\"> [[orange|The computer off in the living room]], or, [[gree|The computer off in the living room]], or, [[bleu|The computer off in the living room]]</prosody>",
+      "links": [
+        {
+          "name": "orange|The computer off in the living room",
+          "link": "orange|The computer off in the living room"
+        },
+        {
+          "name": "gree|The computer off in the living room",
+          "link": "gree|The computer off in the living room"
+        },
+        {
+          "name": "bleu|The computer off in the living room",
+          "link": "bleu|The computer off in the living room"
+        }
+      ],
+      "name": "Third code of the computer in the living room",
+      "pid": "20",
+      "position": {
+        "x": "212",
+        "y": "1762"
+      }
+    },
+    {
+      "text": "What is the third color?\n\nIs it <audio src='https://s3.amazonaws.com/myadventurezlatoupan/orange_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gris_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/bleu_femme.mp3'/>\n\nYou can say:<prosody rate=\"x-slow\"> [[orange|The computer on in the living room]], or, [[gree|The computer off in the living room]], or, [[bleu|The computer off in the living room]]</prosody>\n",
+      "links": [
+        {
+          "name": "orange|The computer on in the living room",
+          "link": "orange|The computer on in the living room"
+        },
+        {
+          "name": "gree|The computer off in the living room",
+          "link": "gree|The computer off in the living room"
+        },
+        {
+          "name": "bleu|The computer off in the living room",
+          "link": "bleu|The computer off in the living room"
+        }
+      ],
+      "name": "The third code of the computer in the living room",
+      "pid": "21",
+      "position": {
+        "x": "214",
+        "y": "1655"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/ask-soundlibrary/office/amzn_sfx_typing_short_02.mp3'/>\nThe computer does not turn on, the code was not correct. \n\nDo you want to [[try again|First code of the computer in living the room again]]?\nOr, if you didn't see any clue yet, you can say look [[at documents|The documents in the living room]].",
+      "links": [
+        {
+          "name": "try again|First code of the computer in living the room again",
+          "link": "try again|First code of the computer in living the room again"
+        },
+        {
+          "name": "at documents|The documents in the living room",
+          "link": "at documents|The documents in the living room"
+        }
+      ],
+      "name": "The computer off in the living room",
+      "pid": "22",
+      "position": {
+        "x": "212",
+        "y": "1878"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/oui_int.mp3'/>\nThe code was correct.\nOn the screen, you see a compass, with the directions:\nNorth. East. South. West. \n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/nord_est_sud_ouest_femme.mp3'/>\n<audio src='https://s3.amazonaws.com/ask-soundlibrary/foley/amzn_sfx_glasses_clink_01.mp3'/>\nUnder it,  it’s written:\n<prosody rate=\"slow\">South. East. North.</prosody>\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/sud_est_nord_femme.mp3'/>\nNow, you can say: [[look left|The sofa in the living room]].",
+      "links": [
+        {
+          "name": "look left|The sofa in the living room",
+          "link": "look left|The sofa in the living room"
+        }
+      ],
+      "name": "The computer on in the living room",
+      "pid": "23",
+      "position": {
+        "x": "98",
+        "y": "1875"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/ask-soundlibrary/human/amzn_sfx_walking_on_grass_01.mp3'/>\nYou go to the entrance of the castle. You can either press the [[doorbell|Doorbell]], or read the [[sign|Sign]] next to the door.\nWhat do you want to do?",
+      "links": [
+        {
+          "name": "doorbell|Doorbell",
+          "link": "doorbell|Doorbell"
+        },
+        {
+          "name": "sign|Sign",
+          "link": "sign|Sign"
+        }
+      ],
+      "name": "The outside of the castle",
+      "pid": "24",
+      "position": {
+        "x": "300",
+        "y": "125"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/ask-soundlibrary/home/amzn_sfx_doorbell_01.mp3'/>\nIt asks you for the password. If you didn't see the sign next to the door, that tell you the password, you can just guess.\nSay [[one|the entrance of the castle]], for:\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/bonjour_intj.mp3'/>\nOr [[two|The gateway of the castle]], for:\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/merci_intj.mp3'/>\nYou can say: one, or, two.",
+      "links": [
+        {
+          "name": "one|the entrance of the castle",
+          "link": "one|the entrance of the castle"
+        },
+        {
+          "name": "two|The gateway of the castle",
+          "link": "two|The gateway of the castle"
+        }
+      ],
+      "name": "Doorbell",
+      "pid": "25",
+      "position": {
+        "x": "176",
+        "y": "198"
+      }
+    },
+    {
+      "text": "The sign next to the door says: <audio src='https://s3.amazonaws.com/myadventurezlatoupan/bonjour_intj.mp3'/>\n\nNow, you can say press [[doorbell|Doorbell]].",
+      "links": [
+        {
+          "name": "doorbell|Doorbell",
+          "link": "doorbell|Doorbell"
+        }
+      ],
+      "name": "Sign",
+      "pid": "26",
+      "position": {
+        "x": "423",
+        "y": "200"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/ask-soundlibrary/magic/amzn_sfx_magic_blast_1x_01.mp3'/>\n<audio src='https://s3.amazonaws.com/ask-soundlibrary/home/amzn_sfx_door_open_03.mp3'/>\n\nYou enter and see a <emphasis level=\"moderate\">magnificent</emphasis> hall, with nice paintings on the walls, and a spiral staircase on the left.\nThis castle seems empty.\n<emphasis level=\"moderate\">Unexpectedly</emphasis>, you hear <emphasis level=\"moderate\">a voice.</emphasis>\n\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/bonjour_homme.mp3'/> You interrupt the voice and explain that you don’t speak French.\n<emphasis level=\"moderate\">A living light</emphasis> approaches and says: <audio src='https://s3.amazonaws.com/myadventurezlatoupan/I_shoudnt_say_bjr_I_should_say_hello.mp3'/>\n\nSay [[bonjour|Inside the castle]], to continue.",
+      "links": [
+        {
+          "name": "bonjour|Inside the castle",
+          "link": "bonjour|Inside the castle"
+        }
+      ],
+      "name": "the entrance of the castle",
+      "pid": "27",
+      "position": {
+        "x": "172",
+        "y": "320"
+      }
+    },
+    {
+      "text": "<say-as interpret-as=\"interjection\">Wah wah!</say-as>\nThe door doesn't open because the password wasn't correct. \nSay: look at [[sign|Sign next to the door]], to see what's written on it.",
+      "links": [
+        {
+          "name": "sign|Sign next to the door",
+          "link": "sign|Sign next to the door"
+        }
+      ],
+      "name": "The gateway of the castle",
+      "pid": "28",
+      "position": {
+        "x": "300",
+        "y": "322"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/where_to_start_the_adventure_there_are_three_room_blabla.mp3'/>\nWhere do you want to go? You can say: the [[Garage]], the [[Terrace]], or, the [[Living room]].",
+      "links": [
+        {
+          "name": "Garage",
+          "link": "Garage",
+          "pid": "2"
+        },
+        {
+          "name": "Terrace",
+          "link": "Terrace",
+          "pid": "4"
+        },
+        {
+          "name": "Living room",
+          "link": "Living room",
+          "pid": "3"
+        }
+      ],
+      "name": "ground floor",
+      "pid": "29",
+      "position": {
+        "x": "347",
+        "y": "700"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/je_mappelle_lumiere_homme_slow.mp3'/>\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/my_name_is_lumiere_it_means_light_in_french.mp3'/>\nAnd he tells you\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/enchante_homme.mp3'/>\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/this_means_nice_to_meet_you.mp3'/>\n\nSay: [[Enchanté|entryway]], to <audio src='https://s3.amazonaws.com/myadventurezlatoupan/lumiere_homme.mp3'/> to continue.",
+      "links": [
+        {
+          "name": "Enchanté|entryway",
+          "link": "Enchanté|entryway"
+        }
+      ],
+      "name": "Inside the castle",
+      "pid": "30",
+      "position": {
+        "x": "302",
+        "y": "450"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/super_intj.mp3'/>\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/you_unlocked_the_living_room_and_you_fried_the_clock.mp3'/>\nFor the full experience, you can meet us on the website. You will be able to speak with <audio src='https://s3.amazonaws.com/myadventurezlatoupan/horloge_femme.mp3'/> and discover more of the castle.\n<audio src='https://s3.amazonaws.com/ask-soundlibrary/foley/amzn_sfx_glasses_clink_01.mp3'/>\nThe website keyword of the living room is, the name of the clock: <audio src='https://s3.amazonaws.com/myadventurezlatoupan/horloge_femme.mp3'/>\n<prosody rate=\"x-slow\"><say-as interpret-as=\"spell-out\">h</say-as></prosody>,<prosody rate=\"x-slow\"><say-as interpret-as=\"spell-out\">o</say-as></prosody>,<prosody rate=\"x-slow\"><say-as interpret-as=\"spell-out\">r</say-as></prosody>,<prosody rate=\"x-slow\"><say-as interpret-as=\"spell-out\">l</say-as></prosody>,<prosody rate=\"x-slow\"><say-as interpret-as=\"spell-out\">o</say-as></prosody>,<prosody rate=\"x-slow\"><say-as interpret-as=\"spell-out\">g</say-as></prosody>,<prosody rate=\"x-slow\"><say-as interpret-as=\"spell-out\">e</say-as></prosody>.\n\nSay: stop, to stop playing for now, and, save your progress.\nYou can also say: [[continue]], to unlock doors.\nThere are three rooms with prisoners in the ground floor.",
+      "links": [
+        {
+          "name": "continue",
+          "link": "continue",
+          "pid": "215"
+        }
+      ],
+      "name": "back to the ground floor",
+      "pid": "31",
+      "position": {
+        "x": "399",
+        "y": "2124"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/je_mappelle_horloge_femme.mp3'/>\nMy name is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/horloge_femme.mp3'/>\nIt means: clock, in French.\nAnd the clock tells you: nice to meet you!\nSay: nice to meet you in french. <audio src='https://s3.amazonaws.com/myadventurezlatoupan/enchante_femme.mp3'/> \nSay [[enchanté|back to the ground floor]].",
+      "links": [
+        {
+          "name": "enchanté|back to the ground floor",
+          "link": "enchanté|back to the ground floor"
+        }
+      ],
+      "name": "The living room is unlocked",
+      "pid": "32",
+      "position": {
+        "x": "399",
+        "y": "1999"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/bravo_intj.mp3'/>\n<prosody rate=\"slow\">Nice French accent already</prosody>!\nThe light tells you that this used to be a <emphasis level=\"moderate\">wonderful castle</emphasis>,<prosody rate=\"slow\"> but now.</prosody>It’s bewitched! And the inhabitants were all turned into objects and are sealed inside rooms.\n<emphasis level=\"moderate\">The only way to free them</emphasis>, is to unlock the doors by solving the mystery in each room.\n\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/do_you_want_to_help_us.mp3'/>\nSay <audio src='https://s3.amazonaws.com/myadventurezlatoupan/oui_femme.mp3'/> for yes. Or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/non_femme.mp3'/> for no.\n\nYou can say [[oui|ground floor]] or [[no|cellar]].",
+      "links": [
+        {
+          "name": "oui|ground floor",
+          "link": "oui|ground floor"
+        },
+        {
+          "name": "no|cellar",
+          "link": "no|cellar"
+        }
+      ],
+      "name": "entryway",
+      "pid": "33",
+      "position": {
+        "x": "301",
+        "y": "565"
+      }
+    },
+    {
+      "text": "<say-as interpret-as=\"interjection\">all righty!</say-as>\n<say-as interpret-as=\"interjection\">just kidding!</say-as>\nThe thing is, the spell has already fallen against you. So you're gonna have to help them to be free.\nSay [[oui|ground floor]] to continue.",
+      "links": [
+        {
+          "name": "oui|ground floor",
+          "link": "oui|ground floor"
+        }
+      ],
+      "name": "cellar",
+      "pid": "34",
+      "position": {
+        "x": "219",
+        "y": "700"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/ask-soundlibrary/home/amzn_sfx_doorbell_01.mp3'/>\nIt asks you for the password.\n\nYou already tried the password <audio src='https://s3.amazonaws.com/myadventurezlatoupan/merci_intj.mp3'/> by saying: two.\nNow, say: [[one|the entrance of the castle]], for:\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/bonjour_intj.mp3'/>\n",
+      "links": [
+        {
+          "name": "one|the entrance of the castle",
+          "link": "one|the entrance of the castle"
+        }
+      ],
+      "name": "Doorbell again",
+      "pid": "35",
+      "position": {
+        "x": "546",
+        "y": "324"
+      }
+    },
+    {
+      "text": "What is the first direction?\n\nIs it <audio src='https://s3.amazonaws.com/myadventurezlatoupan/nord_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/est_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/sud_femme.mp3'/>\n\nYou can say: [[nord|Second code of the box in the living room again]], [[este|Second code of the box in the living room again]], or, [[seud|The second code of the box in the living room again]]",
+      "links": [
+        {
+          "name": "nord|Second code of the box in the living room again",
+          "link": "nord|Second code of the box in the living room again"
+        },
+        {
+          "name": "este|Second code of the box in the living room again",
+          "link": "este|Second code of the box in the living room again"
+        },
+        {
+          "name": "seud|The second code of the box in the living room again",
+          "link": "seud|The second code of the box in the living room again"
+        }
+      ],
+      "name": "First code of the box in the living room again",
+      "pid": "36",
+      "position": {
+        "x": "525",
+        "y": "1198"
+      }
+    },
+    {
+      "text": "What is the first color of the three-color access code?\nIs it <audio src='https://s3.amazonaws.com/myadventurezlatoupan/orange_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gris_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/bleu_femme.mp3'/>\n\nYou can say:<prosody rate=\"x-slow\"> [[orange|Second code of the computer in the living room again]], or, [[gree|Second code of the computer in the living room again]], or, [[bleu|The second code of the computer in the living room again]]</prosody>\n",
+      "links": [
+        {
+          "name": "orange|Second code of the computer in the living room again",
+          "link": "orange|Second code of the computer in the living room again"
+        },
+        {
+          "name": "gree|Second code of the computer in the living room again",
+          "link": "gree|Second code of the computer in the living room again"
+        },
+        {
+          "name": "bleu|The second code of the computer in the living room again",
+          "link": "bleu|The second code of the computer in the living room again"
+        }
+      ],
+      "name": "First code of the computer in living the room again",
+      "pid": "37",
+      "position": {
+        "x": "100",
+        "y": "1314"
+      }
+    },
+    {
+      "text": "What is the second color?\n\nIs it <audio src='https://s3.amazonaws.com/myadventurezlatoupan/orange_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gris_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/bleu_femme.mp3'/>\n\nYou can say:<prosody rate=\"x-slow\"> [[orange|Third code of the computer in the living room again]], or, [[gree|Third code of the computer in the living room again]], or, [[bleu|Third code of the computer in the living room again]]</prosody>",
+      "links": [
+        {
+          "name": "orange|Third code of the computer in the living room again",
+          "link": "orange|Third code of the computer in the living room again"
+        },
+        {
+          "name": "gree|Third code of the computer in the living room again",
+          "link": "gree|Third code of the computer in the living room again"
+        },
+        {
+          "name": "bleu|Third code of the computer in the living room again",
+          "link": "bleu|Third code of the computer in the living room again"
+        }
+      ],
+      "name": "Second code of the computer in the living room again",
+      "pid": "38",
+      "position": {
+        "x": "94",
+        "y": "1539"
+      }
+    },
+    {
+      "text": "What is the second color?\n\nIs it <audio src='https://s3.amazonaws.com/myadventurezlatoupan/orange_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gris_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/bleu_femme.mp3'/>\n\nYou can say;<prosody rate=\"x-slow\"> [[orange|Third code of the computer in the living room again]], or, [[gree|The third code of the computer in the living room again]], or, [[bleu|Third code of the computer in the living room again]]</prosody>\n",
+      "links": [
+        {
+          "name": "orange|Third code of the computer in the living room again",
+          "link": "orange|Third code of the computer in the living room again"
+        },
+        {
+          "name": "gree|The third code of the computer in the living room again",
+          "link": "gree|The third code of the computer in the living room again"
+        },
+        {
+          "name": "bleu|Third code of the computer in the living room again",
+          "link": "bleu|Third code of the computer in the living room again"
+        }
+      ],
+      "name": "The second code of the computer in the living room again",
+      "pid": "39",
+      "position": {
+        "x": "97",
+        "y": "1428"
+      }
+    },
+    {
+      "text": "What is the third color?\n\nIs it <audio src='https://s3.amazonaws.com/myadventurezlatoupan/orange_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gris_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/bleu_femme.mp3'/>\n\nYou can say:<prosody rate=\"x-slow\"> [[orange|The computer off in the living room again]], or, [[gree|The computer off in the living room again]], or, [[bleu|The computer off in the living room again]]</prosody>",
+      "links": [
+        {
+          "name": "orange|The computer off in the living room again",
+          "link": "orange|The computer off in the living room again"
+        },
+        {
+          "name": "gree|The computer off in the living room again",
+          "link": "gree|The computer off in the living room again"
+        },
+        {
+          "name": "bleu|The computer off in the living room again",
+          "link": "bleu|The computer off in the living room again"
+        }
+      ],
+      "name": "Third code of the computer in the living room again",
+      "pid": "40",
+      "position": {
+        "x": "98",
+        "y": "1760"
+      }
+    },
+    {
+      "text": "What is the third color?\n\nIs it <audio src='https://s3.amazonaws.com/myadventurezlatoupan/orange_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gris_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/bleu_femme.mp3'/>\n\nYou can say:<prosody rate=\"x-slow\"> [[orange|The computer on in the living room]], or, [[gree|The computer off in the living room again]], or, [[bleu|The computer off in the living room again]]</prosody>",
+      "links": [
+        {
+          "name": "orange|The computer on in the living room",
+          "link": "orange|The computer on in the living room"
+        },
+        {
+          "name": "gree|The computer off in the living room again",
+          "link": "gree|The computer off in the living room again"
+        },
+        {
+          "name": "bleu|The computer off in the living room again",
+          "link": "bleu|The computer off in the living room again"
+        }
+      ],
+      "name": "The third code of the computer in the living room again",
+      "pid": "41",
+      "position": {
+        "x": "98",
+        "y": "1652"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/ask-soundlibrary/office/amzn_sfx_typing_short_02.mp3'/>\nThe computer does not turn on, the code was not correct.\n\nYou look at the round stickers again. \n\nThere are <prosody rate=\"slow\">a blue one, a grey one, and an orange one.</prosody> Below them, it's written: <audio src='https://s3.amazonaws.com/myadventurezlatoupan/bleu_gris_orange_femme.mp3'/> \n\nSo that must means, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/bleu_femme.mp3'/> is, blue.\n\nSay: [[bleu|Bleu is the first code of the computer]], to enter the color blue, in the computer.",
+      "links": [
+        {
+          "name": "bleu|Bleu is the first code of the computer",
+          "link": "bleu|Bleu is the first code of the computer"
+        }
+      ],
+      "name": "The computer off in the living room again",
+      "pid": "42",
+      "position": {
+        "x": "212",
+        "y": "1989"
+      }
+    },
+    {
+      "text": "What is the second direction of the code?\n\nIs it <audio src='https://s3.amazonaws.com/myadventurezlatoupan/nord_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/est_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/sud_femme.mp3'/>\n\nYou can say: [[nord|Third code of the box in the living room again]], or, [[este|Third code of the box in the living room again]], or, [[seud|Third code of the box in the living room again]]",
+      "links": [
+        {
+          "name": "nord|Third code of the box in the living room again",
+          "link": "nord|Third code of the box in the living room again"
+        },
+        {
+          "name": "este|Third code of the box in the living room again",
+          "link": "este|Third code of the box in the living room again"
+        },
+        {
+          "name": "seud|Third code of the box in the living room again",
+          "link": "seud|Third code of the box in the living room again"
+        }
+      ],
+      "name": "Second code of the box in the living room again",
+      "pid": "43",
+      "position": {
+        "x": "523",
+        "y": "1428"
+      }
+    },
+    {
+      "text": "What is the second direction of the code?\n\nIs it <audio src='https://s3.amazonaws.com/myadventurezlatoupan/nord_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/est_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/sud_femme.mp3'/>\n\nYou can say: [[nord|Third code of the box in the living room again]], or, [[este|The third code of the box in the living room again]], or, [[seud|Third code of the box in the living room again]]",
+      "links": [
+        {
+          "name": "nord|Third code of the box in the living room again",
+          "link": "nord|Third code of the box in the living room again"
+        },
+        {
+          "name": "este|The third code of the box in the living room again",
+          "link": "este|The third code of the box in the living room again"
+        },
+        {
+          "name": "seud|Third code of the box in the living room again",
+          "link": "seud|Third code of the box in the living room again"
+        }
+      ],
+      "name": "The second code of the box in the living room again",
+      "pid": "44",
+      "position": {
+        "x": "525",
+        "y": "1316"
+      }
+    },
+    {
+      "text": "What is the third direction of the code?\n\nIs it <audio src='https://s3.amazonaws.com/myadventurezlatoupan/nord_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/est_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/sud_femme.mp3'/>\n\nYou can say: [[nord|The closed box in the living room again]], or, [[este|The closed box in the living room again]], or, [[seud|The closed box in the living room again]]",
+      "links": [
+        {
+          "name": "nord|The closed box in the living room again",
+          "link": "nord|The closed box in the living room again"
+        },
+        {
+          "name": "este|The closed box in the living room again",
+          "link": "este|The closed box in the living room again"
+        },
+        {
+          "name": "seud|The closed box in the living room again",
+          "link": "seud|The closed box in the living room again"
+        }
+      ],
+      "name": "Third code of the box in the living room again",
+      "pid": "45",
+      "position": {
+        "x": "520",
+        "y": "1650"
+      }
+    },
+    {
+      "text": "What is the third direction of the code?\n\nIs it <audio src='https://s3.amazonaws.com/myadventurezlatoupan/nord_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/est_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/sud_femme.mp3'/>\n\nYou can say: [[nord|The opened box in the living room]], or, [[este|The closed box in the living room again]], or, [[seud|The closed box in the living room again]]",
+      "links": [
+        {
+          "name": "nord|The opened box in the living room",
+          "link": "nord|The opened box in the living room"
+        },
+        {
+          "name": "este|The closed box in the living room again",
+          "link": "este|The closed box in the living room again"
+        },
+        {
+          "name": "seud|The closed box in the living room again",
+          "link": "seud|The closed box in the living room again"
+        }
+      ],
+      "name": "The third code of the box in the living room again",
+      "pid": "46",
+      "position": {
+        "x": "523",
+        "y": "1538"
+      }
+    },
+    {
+      "text": "The box won't open because the code is not correct. \n\nYou look at the directions again.\nThey are: <prosody rate=\"slow\">South. East. North.</prosody> Under, it's written: <audio src='https://s3.amazonaws.com/myadventurezlatoupan/sud_est_nord_femme.mp3'/>\n\nSo that must means, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/sud_femme.mp3'/> is, South.\n\nSay: [[seud|Sud is the first direction of the box]], to enter South, in the box.",
+      "links": [
+        {
+          "name": "seud|Sud is the first direction of the box",
+          "link": "seud|Sud is the first direction of the box"
+        }
+      ],
+      "name": "The closed box in the living room again",
+      "pid": "47",
+      "position": {
+        "x": "520",
+        "y": "1766"
+      }
+    },
+    {
+      "text": "On the right, you see a big shelf. \nAt the top of the shelf, there are some books.\nAnd at the bottom, you see an old dusty box.\n\nYou can say [[look at books|The books in the garage]], or [[look at the box|The box in the garage]].",
+      "links": [
+        {
+          "name": "look at books|The books in the garage",
+          "link": "look at books|The books in the garage"
+        },
+        {
+          "name": "look at the box|The box in the garage",
+          "link": "look at the box|The box in the garage"
+        }
+      ],
+      "name": "The shelf in the garage",
+      "pid": "48",
+      "position": {
+        "x": "998",
+        "y": "989"
+      }
+    },
+    {
+      "text": "On the left, you see: an electrical panel.\nYou need to enter a number code to have access to the panel.\nYou can say [[enter code|First code of the electrical panel access]].\nOtherwise, if you didn't find a number clue yet, say [[look right|The shelf in the garage]]",
+      "links": [
+        {
+          "name": "enter code|First code of the electrical panel access",
+          "link": "enter code|First code of the electrical panel access"
+        },
+        {
+          "name": "look right|The shelf in the garage",
+          "link": "look right|The shelf in the garage"
+        }
+      ],
+      "name": "The electrical panel in the garage",
+      "pid": "49",
+      "position": {
+        "x": "1203",
+        "y": "990"
+      }
+    },
+    {
+      "text": "You open one of the books. \n<audio src='https://s3.amazonaws.com/ask-soundlibrary/foley/amzn_sfx_glasses_clink_01.mp3'/>\nThere is a picture of an electrical panel. And underneath, you see the numbers: <prosody rate=\"slow\">one, two, three.</prosody>\n\nUnder one, it's written <audio src='https://s3.amazonaws.com/myadventurezlatoupan/un_femme.mp3'/>\nUnder two, it's written <audio src='https://s3.amazonaws.com/myadventurezlatoupan/deux_femme.mp3'/>\nUnder three, it's written <audio src='https://s3.amazonaws.com/myadventurezlatoupan/trois_femme.mp3'/>\n\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/un_deux_trois_femme.mp3'/>\n\n<prosody rate=\"x-slow\">Say: [[un deux trois|The book in the garage]],</prosody> to continue.",
+      "links": [
+        {
+          "name": "un deux trois|The book in the garage",
+          "link": "un deux trois|The book in the garage"
+        }
+      ],
+      "name": "The books in the garage",
+      "pid": "50",
+      "position": {
+        "x": "1002",
+        "y": "1099"
+      }
+    },
+    {
+      "text": "Looking at the box\n<audio src='https://s3.amazonaws.com/ask-soundlibrary/foley/amzn_sfx_glasses_clink_01.mp3'/>\nYou see: three paint cans. \nA purple one, a pink one, and a yellow one.\n\nOn the purple one, it's written <audio src='https://s3.amazonaws.com/myadventurezlatoupan/violet_femme.mp3'/>\nSo that means: purple, is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/violet_femme.mp3'/>\nSay: [[veeolet|The purple can in the garage]], to continue.",
+      "links": [
+        {
+          "name": "veeolet|The purple can in the garage",
+          "link": "veeolet|The purple can in the garage"
+        }
+      ],
+      "name": "The box in the garage",
+      "pid": "51",
+      "position": {
+        "x": "999",
+        "y": "1321"
+      }
+    },
+    {
+      "text": "To have access to the electrical panel, you need to press the numbers in the correct order between <audio src='https://s3.amazonaws.com/myadventurezlatoupan/un_deux_trois_femme.mp3'/>\n\nWhat is the first number you want to press?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/un_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/deux_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/trois_femme.mp3'/>\nYou can say [[un|Second code of the electrical panel access]], [[deux|The second code of the electrical panel access]], or, [[trois|The second code of the electrical panel access]].",
+      "links": [
+        {
+          "name": "un|Second code of the electrical panel access",
+          "link": "un|Second code of the electrical panel access"
+        },
+        {
+          "name": "deux|The second code of the electrical panel access",
+          "link": "deux|The second code of the electrical panel access"
+        },
+        {
+          "name": "trois|The second code of the electrical panel access",
+          "link": "trois|The second code of the electrical panel access"
+        }
+      ],
+      "name": "First code of the electrical panel access",
+      "pid": "52",
+      "position": {
+        "x": "1202",
+        "y": "1100"
+      }
+    },
+    {
+      "text": "<say-as interpret-as=\"interjection\">Well done!</say-as> <audio src='https://s3.amazonaws.com/myadventurezlatoupan/un_deux_trois_femme.mp3'/>\nNow, you can say: [[look at the box|The box in the garage]].\nOtherwise, you can say look [[left|The electrical panel in the garage]].",
+      "links": [
+        {
+          "name": "look at the box|The box in the garage",
+          "link": "look at the box|The box in the garage"
+        },
+        {
+          "name": "left|The electrical panel in the garage",
+          "link": "left|The electrical panel in the garage"
+        }
+      ],
+      "name": "The book in the garage",
+      "pid": "53",
+      "position": {
+        "x": "1001",
+        "y": "1211"
+      }
+    },
+    {
+      "text": "On the pink one, it's written <audio src='https://s3.amazonaws.com/myadventurezlatoupan/rose_femme.mp3'/>\nSo that means: pink, is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/rose_femme.mp3'/>\nSay: [[rose|The pink can in the garage]], to continue.",
+      "links": [
+        {
+          "name": "rose|The pink can in the garage",
+          "link": "rose|The pink can in the garage"
+        }
+      ],
+      "name": "The purple can in the garage",
+      "pid": "54",
+      "position": {
+        "x": "1001",
+        "y": "1433"
+      }
+    },
+    {
+      "text": "On the yellow one, it's written <audio src='https://s3.amazonaws.com/myadventurezlatoupan/jaune_femme.mp3'/>\nSo that means, yellow is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/jaune_femme.mp3'/>\nSay: [[jaune|The yellow can in the garage]], to continue.",
+      "links": [
+        {
+          "name": "jaune|The yellow can in the garage",
+          "link": "jaune|The yellow can in the garage"
+        }
+      ],
+      "name": "The pink can in the garage",
+      "pid": "55",
+      "position": {
+        "x": "1000",
+        "y": "1544"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/bravo_intj.mp3'/>\nNow, you can go [[look at the books|The books in the garage]].\nOtherwise, say: [[look left|The electrical panel in the garage]].",
+      "links": [
+        {
+          "name": "look at the books|The books in the garage",
+          "link": "look at the books|The books in the garage"
+        },
+        {
+          "name": "look left|The electrical panel in the garage",
+          "link": "look left|The electrical panel in the garage"
+        }
+      ],
+      "name": "The yellow can in the garage",
+      "pid": "56",
+      "position": {
+        "x": "1000",
+        "y": "1659"
+      }
+    },
+    {
+      "text": "What is the second number you want to press?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/un_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/deux_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/trois_femme.mp3'/>\nYou can say [[un|The third code of the electrical panel access]], [[deux|Third code of the electrical panel access]], or, [[trois|The third code of the electrical panel access]].",
+      "links": [
+        {
+          "name": "un|The third code of the electrical panel access",
+          "link": "un|The third code of the electrical panel access"
+        },
+        {
+          "name": "deux|Third code of the electrical panel access",
+          "link": "deux|Third code of the electrical panel access"
+        },
+        {
+          "name": "trois|The third code of the electrical panel access",
+          "link": "trois|The third code of the electrical panel access"
+        }
+      ],
+      "name": "Second code of the electrical panel access",
+      "pid": "57",
+      "position": {
+        "x": "1142",
+        "y": "1214"
+      }
+    },
+    {
+      "text": "What is the second number you want to press?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/un_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/deux_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/trois_femme.mp3'/>\nYou can say [[un|The third code of the electrical panel access]] [[deux|The third code of the electrical panel access]] or [[trois|The third code of the electrical panel access]].",
+      "links": [
+        {
+          "name": "un|The third code of the electrical panel access",
+          "link": "un|The third code of the electrical panel access"
+        },
+        {
+          "name": "deux|The third code of the electrical panel access",
+          "link": "deux|The third code of the electrical panel access"
+        },
+        {
+          "name": "trois|The third code of the electrical panel access",
+          "link": "trois|The third code of the electrical panel access"
+        }
+      ],
+      "name": "The second code of the electrical panel access",
+      "pid": "58",
+      "position": {
+        "x": "1266",
+        "y": "1215"
+      }
+    },
+    {
+      "text": "What is the third number you want to press?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/un_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/deux_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/trois_femme.mp3'/>\nYou can say [[un|The closed access of the electrical panel]], [[deux|The closed access of the electrical panel]], or, [[trois|The closed access of the electrical panel]].",
+      "links": [
+        {
+          "name": "un|The closed access of the electrical panel",
+          "link": "un|The closed access of the electrical panel"
+        },
+        {
+          "name": "deux|The closed access of the electrical panel",
+          "link": "deux|The closed access of the electrical panel"
+        },
+        {
+          "name": "trois|The closed access of the electrical panel",
+          "link": "trois|The closed access of the electrical panel"
+        }
+      ],
+      "name": "The third code of the electrical panel access",
+      "pid": "59",
+      "position": {
+        "x": "1268",
+        "y": "1322"
+      }
+    },
+    {
+      "text": "What is the third number you want to press?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/un_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/deux_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/trois_femme.mp3'/>\nYou can say [[un|The closed access of the electrical panel]], [[deux|The closed access of the electrical panel]], or, [[trois|The opended access of the electrical panel]].",
+      "links": [
+        {
+          "name": "un|The closed access of the electrical panel",
+          "link": "un|The closed access of the electrical panel"
+        },
+        {
+          "name": "deux|The closed access of the electrical panel",
+          "link": "deux|The closed access of the electrical panel"
+        },
+        {
+          "name": "trois|The opended access of the electrical panel",
+          "link": "trois|The opended access of the electrical panel"
+        }
+      ],
+      "name": "Third code of the electrical panel access",
+      "pid": "60",
+      "position": {
+        "x": "1141",
+        "y": "1321"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/ask-soundlibrary/office/amzn_sfx_typing_short_02.mp3'/>\nYou don't have access to the electical panel, because the code wasn't correct.\n\nYou can say: [[try again|First code of the electrical panel access again]], or: look [[at shelf|The shelf in the garage]] if you didn't find a clue yet.",
+      "links": [
+        {
+          "name": "try again|First code of the electrical panel access again",
+          "link": "try again|First code of the electrical panel access again"
+        },
+        {
+          "name": "at shelf|The shelf in the garage",
+          "link": "at shelf|The shelf in the garage"
+        }
+      ],
+      "name": "The closed access of the electrical panel",
+      "pid": "61",
+      "position": {
+        "x": "1266",
+        "y": "1433"
+      }
+    },
+    {
+      "text": "Nice, the code was correct!\nYou now have access to the electrical panel.\nYou see: three electric wires. \nA purple one, a pink one, and a yellow one.\nAnd you see: three power sockets.\n<break time=\"0.5s\"/>\nUnder each socket, is written a color. \n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/violet_rose_jaune_femme.mp3'/>\nYou remember that purple, is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/violet_femme.mp3'/> Pink, is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/rose_femme.mp3'/> And yellow, is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/jaune_femme.mp3'/>\n\nYou're going to have to plug the wires, into the correct socket.\nAre you ready? Say: [[oui|Plug the purple wire]], to start.",
+      "links": [
+        {
+          "name": "oui|Plug the purple wire",
+          "link": "oui|Plug the purple wire"
+        }
+      ],
+      "name": "The opended access of the electrical panel",
+      "pid": "62",
+      "position": {
+        "x": "1141",
+        "y": "1433"
+      }
+    },
+    {
+      "text": "Where do you want to plug the purple wire?\nDo you want to plug it at the socket named <audio src='https://s3.amazonaws.com/myadventurezlatoupan/violet_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/rose_femme.mp3'/>, or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/jaune_femme.mp3'/>\n\nYou can say [[veeolet|Plug the pink wire]], [[rose|plugging the pink wire]], or, [[jaune|plugging the pink wire]]",
+      "links": [
+        {
+          "name": "veeolet|Plug the pink wire",
+          "link": "veeolet|Plug the pink wire"
+        },
+        {
+          "name": "rose|plugging the pink wire",
+          "link": "rose|plugging the pink wire"
+        },
+        {
+          "name": "jaune|plugging the pink wire",
+          "link": "jaune|plugging the pink wire"
+        }
+      ],
+      "name": "Plug the purple wire",
+      "pid": "63",
+      "position": {
+        "x": "1142",
+        "y": "1539"
+      }
+    },
+    {
+      "text": "Where do you want to plug the pink wire?\nAt the socket named <audio src='https://s3.amazonaws.com/myadventurezlatoupan/violet_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/rose_femme.mp3'/>, or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/jaune_femme.mp3'/>\n\n\nYou can say [[veeolet|plugging the yellow wire]], [[rose|Plug the yellow wire]], or, [[jaune|plugging the yellow wire]].",
+      "links": [
+        {
+          "name": "veeolet|plugging the yellow wire",
+          "link": "veeolet|plugging the yellow wire"
+        },
+        {
+          "name": "rose|Plug the yellow wire",
+          "link": "rose|Plug the yellow wire"
+        },
+        {
+          "name": "jaune|plugging the yellow wire",
+          "link": "jaune|plugging the yellow wire"
+        }
+      ],
+      "name": "Plug the pink wire",
+      "pid": "64",
+      "position": {
+        "x": "1110",
+        "y": "1662"
+      }
+    },
+    {
+      "text": "Where do you want to plug the pink wire?\nAt the socket named <audio src='https://s3.amazonaws.com/myadventurezlatoupan/violet_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/rose_femme.mp3'/>, or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/jaune_femme.mp3'/>\n\n\nYou can say [[veeolet|plugging the yellow wire]], [[rose|plugging the yellow wire]], or, [[jaune|plugging the yellow wire]].",
+      "links": [
+        {
+          "name": "veeolet|plugging the yellow wire",
+          "link": "veeolet|plugging the yellow wire"
+        },
+        {
+          "name": "rose|plugging the yellow wire",
+          "link": "rose|plugging the yellow wire"
+        },
+        {
+          "name": "jaune|plugging the yellow wire",
+          "link": "jaune|plugging the yellow wire"
+        }
+      ],
+      "name": "plugging the pink wire",
+      "pid": "65",
+      "position": {
+        "x": "1216",
+        "y": "1662"
+      }
+    },
+    {
+      "text": "Where do you want to plug the yellow wire?\nAt the socket named <audio src='https://s3.amazonaws.com/myadventurezlatoupan/violet_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/rose_femme.mp3'/>, or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/jaune_femme.mp3'/>\n\nYou can say [[veeolet|the electricity doesn't work in the garage]], [[rose|the electricity doesn't work in the garage]], or, [[jaune|the electricity doesn't work in the garage]].",
+      "links": [
+        {
+          "name": "veeolet|the electricity doesn't work in the garage",
+          "link": "veeolet|the electricity doesn't work in the garage"
+        },
+        {
+          "name": "rose|the electricity doesn't work in the garage",
+          "link": "rose|the electricity doesn't work in the garage"
+        },
+        {
+          "name": "jaune|the electricity doesn't work in the garage",
+          "link": "jaune|the electricity doesn't work in the garage"
+        }
+      ],
+      "name": "plugging the yellow wire",
+      "pid": "66",
+      "position": {
+        "x": "1215",
+        "y": "1772"
+      }
+    },
+    {
+      "text": "Where do you want to plug the yellow wire?\nAt the socket named <audio src='https://s3.amazonaws.com/myadventurezlatoupan/violet_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/rose_femme.mp3'/>, or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/jaune_femme.mp3'/>\n\nYou can say [[veeolet|the electricity doesn't work in the garage]], [[rose|the electricity doesn't work in the garage]], or, [[jaune|the electricity in the garage]].",
+      "links": [
+        {
+          "name": "veeolet|the electricity doesn't work in the garage",
+          "link": "veeolet|the electricity doesn't work in the garage"
+        },
+        {
+          "name": "rose|the electricity doesn't work in the garage",
+          "link": "rose|the electricity doesn't work in the garage"
+        },
+        {
+          "name": "jaune|the electricity in the garage",
+          "link": "jaune|the electricity in the garage"
+        }
+      ],
+      "name": "Plug the yellow wire",
+      "pid": "67",
+      "position": {
+        "x": "1108",
+        "y": "1772"
+      }
+    },
+    {
+      "text": "Oh no!\nThe eletricity is still not working because the connection is not correct.\n\nYou can say: [[try again|Plug the purple wire again]].",
+      "links": [
+        {
+          "name": "try again|Plug the purple wire again",
+          "link": "try again|Plug the purple wire again"
+        }
+      ],
+      "name": "the electricity doesn't work in the garage",
+      "pid": "68",
+      "position": {
+        "x": "1211",
+        "y": "1883"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/ask-soundlibrary/scifi/amzn_sfx_scifi_zap_electric_02.mp3'/>\n\n<say-as interpret-as=\"interjection\">Well done!</say-as>\nThe light comes on.\n<audio src='https://s3.amazonaws.com/ask-soundlibrary/office/amzn_sfx_elevator_bell_1x_01.mp3'/>\nThe elevator door opens and you see: a living cup.\nThanks to you, the cup named: Tasse, is free. \nShe is really glad you saved her, she tells you: thank you.\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/merci_femme.mp3'/>\nSay: you're welcome! To Tasse.\nIt's <audio src='https://s3.amazonaws.com/myadventurezlatoupan/de_rien_femme.mp3'/>\nSay [[de rien|The garage is unlocked]]",
+      "links": [
+        {
+          "name": "de rien|The garage is unlocked",
+          "link": "de rien|The garage is unlocked"
+        }
+      ],
+      "name": "the electricity in the garage",
+      "pid": "69",
+      "position": {
+        "x": "1107",
+        "y": "1882"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/je_suis_tasse_femme.mp3'/>\nI am: Tasse.\n\nIt means: cup, in French.\nAnd the cup tells you: nice to meet you!\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/enchante_femme.mp3'/>\n\nThe cup would love to continue speaking with you but she can't wait to see <audio src='https://s3.amazonaws.com/myadventurezlatoupan/lumiere_femme.mp3'/> again.\nShe tells you: sorry.\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/pardon_femme.mp3'/>\nAnd also, she tells you: goodbye\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/au_revoir_femme.mp3'/>\n\nSay, [[au revoir|To the ground floor again]], to Tasse.",
+      "links": [
+        {
+          "name": "au revoir|To the ground floor again",
+          "link": "au revoir|To the ground floor again"
+        }
+      ],
+      "name": "The garage is unlocked",
+      "pid": "70",
+      "position": {
+        "x": "1102",
+        "y": "1992"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/bravo_intj.mp3'/>\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/you_unlocked_the_garage_and_you_fried_the_cup.mp3'/>\nFor the full experience, you can meet us on the website. You will be able to speak with: Tasse. And discover more of the castle.\n\nThe website keyword of the garage is, the name of the cup: <audio src='https://s3.amazonaws.com/myadventurezlatoupan/tasse_femme.mp3'/>\n<prosody rate=\"x-slow\"><say-as interpret-as=\"spell-out\">t</say-as></prosody>,<prosody rate=\"x-slow\"><say-as interpret-as=\"spell-out\">a</say-as></prosody>,<prosody rate=\"x-slow\"><say-as interpret-as=\"spell-out\">s</say-as></prosody>,<prosody rate=\"x-slow\"><say-as interpret-as=\"spell-out\">s</say-as></prosody>,<prosody rate=\"x-slow\"><say-as interpret-as=\"spell-out\">e</say-as></prosody>.\n\nSay: stop, to stop playing for now, and, save your progress.\nYou can also say: [[continue]], to unlock other doors. There are three rooms with prisoners in the ground floor.",
+      "links": [
+        {
+          "name": "continue",
+          "link": "continue",
+          "pid": "215"
+        }
+      ],
+      "name": "To the ground floor again",
+      "pid": "71",
+      "position": {
+        "x": "1103",
+        "y": "2097"
+      }
+    },
+    {
+      "text": "Which room do you want to unlock now?\nThere are: <audio src='https://s3.amazonaws.com/myadventurezlatoupan/le_garage_la_terrace_le_salon_homme.mp3'/>\nWhere do you want to go? The [[Garage]]? The [[Terrace]]? Or the [[Living room]]?\n\nOr, if you unlocked all the rooms in the ground floor, say: [[done|Done with the ground floor]].",
+      "links": [
+        {
+          "name": "Garage",
+          "link": "Garage",
+          "pid": "2"
+        },
+        {
+          "name": "Terrace",
+          "link": "Terrace",
+          "pid": "4"
+        },
+        {
+          "name": "Living room",
+          "link": "Living room",
+          "pid": "3"
+        },
+        {
+          "name": "done|Done with the ground floor",
+          "link": "done|Done with the ground floor"
+        }
+      ],
+      "name": "Continue with the ground floor",
+      "pid": "72",
+      "position": {
+        "x": "1099",
+        "y": "2501"
+      }
+    },
+    {
+      "text": "Who did you free in the living room?\nYou can say: <audio src='https://s3.amazonaws.com/myadventurezlatoupan/armoire_femme.mp3'/>, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/horloge_femme.mp3'/>, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/tasse_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/chaise_femme.mp3'/>\n\nSay: [[Armoire|object in the garage]], [[Horloge|Who did you free in the garage]], [[Tasse|object in the garage]], or, [[Chaise|object in the garage]].",
+      "links": [
+        {
+          "name": "Armoire|object in the garage",
+          "link": "Armoire|object in the garage"
+        },
+        {
+          "name": "Horloge|Who did you free in the garage",
+          "link": "Horloge|Who did you free in the garage"
+        },
+        {
+          "name": "Tasse|object in the garage",
+          "link": "Tasse|object in the garage"
+        },
+        {
+          "name": "Chaise|object in the garage",
+          "link": "Chaise|object in the garage"
+        }
+      ],
+      "name": "Done with the ground floor",
+      "pid": "73",
+      "position": {
+        "x": "1100",
+        "y": "2612"
+      }
+    },
+    {
+      "text": "Who did you free in the garage?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/armoire_femme.mp3'/>, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/horloge_femme.mp3'/>, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/tasse_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/chaise_femme.mp3'/>\nYou can say: [[Armoire|object in the terrace]], [[Horloge|object in the terrace]], [[Tasse|object in the terrace]], or, [[Chaise|object in the terrace]]",
+      "links": [
+        {
+          "name": "Armoire|object in the terrace",
+          "link": "Armoire|object in the terrace"
+        },
+        {
+          "name": "Horloge|object in the terrace",
+          "link": "Horloge|object in the terrace"
+        },
+        {
+          "name": "Tasse|object in the terrace",
+          "link": "Tasse|object in the terrace"
+        },
+        {
+          "name": "Chaise|object in the terrace",
+          "link": "Chaise|object in the terrace"
+        }
+      ],
+      "name": "object in the garage",
+      "pid": "74",
+      "position": {
+        "x": "1167",
+        "y": "2726"
+      }
+    },
+    {
+      "text": "Who did you free in the garage?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/armoire_femme.mp3'/>, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/horloge_femme.mp3'/>, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/tasse_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/chaise_femme.mp3'/>\n\nYou can say: [[Armoire|object in the terrace]], [[Horloge|object in the terrace]], [[Tasse|Who did you free in the terrace]], or, [[Chaise|object in the terrace]]",
+      "links": [
+        {
+          "name": "Armoire|object in the terrace",
+          "link": "Armoire|object in the terrace"
+        },
+        {
+          "name": "Horloge|object in the terrace",
+          "link": "Horloge|object in the terrace"
+        },
+        {
+          "name": "Tasse|Who did you free in the terrace",
+          "link": "Tasse|Who did you free in the terrace"
+        },
+        {
+          "name": "Chaise|object in the terrace",
+          "link": "Chaise|object in the terrace"
+        }
+      ],
+      "name": "Who did you free in the garage",
+      "pid": "75",
+      "position": {
+        "x": "1037",
+        "y": "2728"
+      }
+    },
+    {
+      "text": "Who did you free in the terrace?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/armoire_femme.mp3'/>, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/horloge_femme.mp3'/>, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/tasse_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/chaise_femme.mp3'/>\nYou can say: [[Armoire|Did you unlock the ground floor]], [[Horloge|Did you unlock the ground floor]], [[Tasse|Did you unlock the ground floor]], or, [[Chaise|Did you unlock the ground floor]]",
+      "links": [
+        {
+          "name": "Armoire|Did you unlock the ground floor",
+          "link": "Armoire|Did you unlock the ground floor"
+        },
+        {
+          "name": "Horloge|Did you unlock the ground floor",
+          "link": "Horloge|Did you unlock the ground floor"
+        },
+        {
+          "name": "Tasse|Did you unlock the ground floor",
+          "link": "Tasse|Did you unlock the ground floor"
+        },
+        {
+          "name": "Chaise|Did you unlock the ground floor",
+          "link": "Chaise|Did you unlock the ground floor"
+        }
+      ],
+      "name": "object in the terrace",
+      "pid": "76",
+      "position": {
+        "x": "1167",
+        "y": "2837"
+      }
+    },
+    {
+      "text": "Who did you free in the terrace?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/armoire_femme.mp3'/>, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/horloge_femme.mp3'/>, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/tasse_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/chaise_femme.mp3'/>\nYou can say: [[Armoire|The ground floor is unlocked]], [[Horloge|Did you unlock the ground floor]], [[Tasse|Did you unlock the ground floor]], or, [[Chaise|Did you unlock the ground floor]]",
+      "links": [
+        {
+          "name": "Armoire|The ground floor is unlocked",
+          "link": "Armoire|The ground floor is unlocked"
+        },
+        {
+          "name": "Horloge|Did you unlock the ground floor",
+          "link": "Horloge|Did you unlock the ground floor"
+        },
+        {
+          "name": "Tasse|Did you unlock the ground floor",
+          "link": "Tasse|Did you unlock the ground floor"
+        },
+        {
+          "name": "Chaise|Did you unlock the ground floor",
+          "link": "Chaise|Did you unlock the ground floor"
+        }
+      ],
+      "name": "Who did you free in the terrace",
+      "pid": "77",
+      "position": {
+        "x": "1039",
+        "y": "2838"
+      }
+    },
+    {
+      "text": "Very good, you finished the ground floor!\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/bravo_intj.mp3'/>\nThe Second Floor will be available soon.\n\nBy the meantime, you can review everything you learned in French. Go to the website and enter password: ground floor.\n\nDon't hesitate to tell us what you think about the game: Trapped in France.\nWe'd like to be very careful to please our players.\n\nSay stop to save your progress.\n\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/au_revoir_femme.mp3'/>\n\n[[See you soon]]",
+      "links": [
+        {
+          "name": "See you soon",
+          "link": "See you soon",
+          "pid": "192"
+        }
+      ],
+      "name": "The ground floor is unlocked",
+      "pid": "78",
+      "position": {
+        "x": "1035",
+        "y": "2947"
+      }
+    },
+    {
+      "text": "Did you really finish the ground floor?\n[[Try again|Done with the ground floor]] or [[continue|Continue with the ground floor]] to unlock all of the rooom of the ground floor before continue.",
+      "links": [
+        {
+          "name": "Try again|Done with the ground floor",
+          "link": "Try again|Done with the ground floor"
+        },
+        {
+          "name": "continue|Continue with the ground floor",
+          "link": "continue|Continue with the ground floor"
+        }
+      ],
+      "name": "Did you unlock the ground floor",
+      "pid": "79",
+      "position": {
+        "x": "1170",
+        "y": "2948"
+      }
+    },
+    {
+      "text": "Looking right, you see: a low table with two lounge chairs.\nYou can say: [[look at chairs|The chairs in the terrace]], or, [[look at table|The table in the terrace]].",
+      "links": [
+        {
+          "name": "look at chairs|The chairs in the terrace",
+          "link": "look at chairs|The chairs in the terrace"
+        },
+        {
+          "name": "look at table|The table in the terrace",
+          "link": "look at table|The table in the terrace"
+        }
+      ],
+      "name": "The table and chairs in the terrace",
+      "pid": "80",
+      "position": {
+        "x": "1799",
+        "y": "966"
+      }
+    },
+    {
+      "text": "Looking left, you see a safe, with three arrows. You can turn the direction of the arrows of in order to open the safe. \n\nTo try to open it, you can say: [[turn arrows|First direction of the arrows in the terrace]].\nOtherwise, if you didn't find a clue yet, about direction, say: [[look right|The table and chairs in the terrace]].",
+      "links": [
+        {
+          "name": "turn arrows|First direction of the arrows in the terrace",
+          "link": "turn arrows|First direction of the arrows in the terrace"
+        },
+        {
+          "name": "look right|The table and chairs in the terrace",
+          "link": "look right|The table and chairs in the terrace"
+        }
+      ],
+      "name": "The strongbox in the terrace",
+      "pid": "81",
+      "position": {
+        "x": "1984",
+        "y": "964"
+      }
+    },
+    {
+      "text": "Behind the chairs, you see a lot of planted roses. It's only black roses. Next to the roses, you see a sign with <audio src='https://s3.amazonaws.com/myadventurezlatoupan/noir_femme.mp3'/> written on it.\nSo, that must mean, black, is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/noir_femme.mp3'/>\n\nIn the middle of the black roses: is a small white rose.\nNext to the white rose, there is a sign with <audio src='https://s3.amazonaws.com/myadventurezlatoupan/blanc_femme.mp3'/> written on it.\nSo that must mean, white, is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/blanc_femme.mp3'/>\n<audio src='https://s3.amazonaws.com/ask-soundlibrary/foley/amzn_sfx_glasses_clink_01.mp3'/>\nIt looks like the black roses are winning.\n\nNow, you can [[look at table|The table in the terrace]].",
+      "links": [
+        {
+          "name": "look at table|The table in the terrace",
+          "link": "look at table|The table in the terrace"
+        }
+      ],
+      "name": "The chairs in the terrace",
+      "pid": "82",
+      "position": {
+        "x": "1804",
+        "y": "1074"
+      }
+    },
+    {
+      "text": "On the table, you see: a chess board.\nYou have to play, with the correct colored pieces, to win.\nIf you know which color you are going to pick to win, say, [[play chess|The chess board in the terrace]].\nOtherwise, if you didn't find a clue yet, about what must be the dominant color in the terrace, you can say: [[look at chairs|The chairs in the terrace]].",
+      "links": [
+        {
+          "name": "play chess|The chess board in the terrace",
+          "link": "play chess|The chess board in the terrace"
+        },
+        {
+          "name": "look at chairs|The chairs in the terrace",
+          "link": "look at chairs|The chairs in the terrace"
+        }
+      ],
+      "name": "The table in the terrace",
+      "pid": "83",
+      "position": {
+        "x": "1800",
+        "y": "1186"
+      }
+    },
+    {
+      "text": "You remember that, right is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_femme.mp3'/> And, left is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gauche_femme.mp3'/>\n\nWhat is the direction you want to turn the first arrow?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gauche_femme.mp3'/>\nYou can say: [[droite|Second direction of the arrows in the terrace]], or, [[gauche|The second direction of the arrows in the terrace]].",
+      "links": [
+        {
+          "name": "droite|Second direction of the arrows in the terrace",
+          "link": "droite|Second direction of the arrows in the terrace"
+        },
+        {
+          "name": "gauche|The second direction of the arrows in the terrace",
+          "link": "gauche|The second direction of the arrows in the terrace"
+        }
+      ],
+      "name": "First direction of the arrows in the terrace",
+      "pid": "84",
+      "position": {
+        "x": "1983",
+        "y": "1072"
+      }
+    },
+    {
+      "text": "Which color do you want to pick, to win the chess game?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/noir_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/blanc_femme.mp3'/>\nYou can say: [[noir|The opened chess board in the terrace]], or, [[blanc|The closed chess board in the terrace]]",
+      "links": [
+        {
+          "name": "noir|The opened chess board in the terrace",
+          "link": "noir|The opened chess board in the terrace"
+        },
+        {
+          "name": "blanc|The closed chess board in the terrace",
+          "link": "blanc|The closed chess board in the terrace"
+        }
+      ],
+      "name": "The chess board in the terrace",
+      "pid": "85",
+      "position": {
+        "x": "1800",
+        "y": "1300"
+      }
+    },
+    {
+      "text": "The game begins.\n\nFinally, you say: checkmate! And you win.\n\nSince you won, the pieces magically take the form of three arrows.\n<audio src='https://s3.amazonaws.com/ask-soundlibrary/foley/amzn_sfx_glasses_clink_01.mp3'/>\nOne pointing right, one pointing left, and another one, pointing right.\n\n<prosody rate=\"slow\">Right, left, right.</prosody>\n\nUnder the arrows pointing right, it's written <audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_femme.mp3'/>\nAnd under the arrow pointing left, it's written <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gauche_femme.mp3'/>\n\nThat must mean: right, is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_femme.mp3'/>, And left, is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gauche_femme.mp3'/>\n\nNow, you can say: [[look left|The strongbox in the terrace]]",
+      "links": [
+        {
+          "name": "look left|The strongbox in the terrace",
+          "link": "look left|The strongbox in the terrace"
+        }
+      ],
+      "name": "The opened chess board in the terrace",
+      "pid": "86",
+      "position": {
+        "x": "1801",
+        "y": "1523"
+      }
+    },
+    {
+      "text": "The game begins.\n\nBut, unfortunately, you hear: <audio src='https://s3.amazonaws.com/myadventurezlatoupan/checkmate_homme.mp3'/> And, the black color wins the game. \nYou can say, [[try again|Play chess board again]].",
+      "links": [
+        {
+          "name": "try again|Play chess board again",
+          "link": "try again|Play chess board again"
+        }
+      ],
+      "name": "The closed chess board in the terrace",
+      "pid": "87",
+      "position": {
+        "x": "1799",
+        "y": "1414"
+      }
+    },
+    {
+      "text": "You played the color: white <audio src='https://s3.amazonaws.com/myadventurezlatoupan/blanc_femme.mp3'/> and didn't win.\nNow, you can pick the color: black\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/noir_femme.mp3'/> \nSay: [[noir|The opened chess board in the terrace]], to play.",
+      "links": [
+        {
+          "name": "noir|The opened chess board in the terrace",
+          "link": "noir|The opened chess board in the terrace"
+        }
+      ],
+      "name": "Play chess board again",
+      "pid": "88",
+      "position": {
+        "x": "1798",
+        "y": "1636"
+      }
+    },
+    {
+      "text": "What is the direction of the second arrow?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gauche_femme.mp3'/>\nYou can say [[droite|The third direction of the arrows in the terrace]] or [[gauche|Third direction of the arrows in the terrace]].",
+      "links": [
+        {
+          "name": "droite|The third direction of the arrows in the terrace",
+          "link": "droite|The third direction of the arrows in the terrace"
+        },
+        {
+          "name": "gauche|Third direction of the arrows in the terrace",
+          "link": "gauche|Third direction of the arrows in the terrace"
+        }
+      ],
+      "name": "Second direction of the arrows in the terrace",
+      "pid": "89",
+      "position": {
+        "x": "1924",
+        "y": "1188"
+      }
+    },
+    {
+      "text": "What is the direction of the second arrow?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gauche_femme.mp3'/>\nYou can say [[droite|The third direction of the arrows in the terrace]] or [[gauche|The third direction of the arrows in the terrace]].",
+      "links": [
+        {
+          "name": "droite|The third direction of the arrows in the terrace",
+          "link": "droite|The third direction of the arrows in the terrace"
+        },
+        {
+          "name": "gauche|The third direction of the arrows in the terrace",
+          "link": "gauche|The third direction of the arrows in the terrace"
+        }
+      ],
+      "name": "The second direction of the arrows in the terrace",
+      "pid": "90",
+      "position": {
+        "x": "2041",
+        "y": "1191"
+      }
+    },
+    {
+      "text": "What is the direction of the third arrow?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gauche_femme.mp3'/>\nYou can say [[droite|The closed strongbox in the terrace]] or [[gauche|The closed strongbox in the terrace]].",
+      "links": [
+        {
+          "name": "droite|The closed strongbox in the terrace",
+          "link": "droite|The closed strongbox in the terrace"
+        },
+        {
+          "name": "gauche|The closed strongbox in the terrace",
+          "link": "gauche|The closed strongbox in the terrace"
+        }
+      ],
+      "name": "The third direction of the arrows in the terrace",
+      "pid": "91",
+      "position": {
+        "x": "2041",
+        "y": "1300"
+      }
+    },
+    {
+      "text": "What is the direction of the third arrow?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gauche_femme.mp3'/>\nYou can say [[droite|The opened strongbox in the terrace]] or [[gauche|The closed strongbox in the terrace]].",
+      "links": [
+        {
+          "name": "droite|The opened strongbox in the terrace",
+          "link": "droite|The opened strongbox in the terrace"
+        },
+        {
+          "name": "gauche|The closed strongbox in the terrace",
+          "link": "gauche|The closed strongbox in the terrace"
+        }
+      ],
+      "name": "Third direction of the arrows in the terrace",
+      "pid": "92",
+      "position": {
+        "x": "1921",
+        "y": "1300"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/ask-soundlibrary/foley/amzn_sfx_clock_ticking_01.mp3'/>\n<say-as interpret-as=\"interjection\">Well done!</say-as>\nThe safe opens. <audio src='https://s3.amazonaws.com/myadventurezlatoupan/lumiere_femme.mp3'/> looks inside, and there is the key!\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/la_cle_homme.mp3'/>\nHe says: <audio src='https://s3.amazonaws.com/myadventurezlatoupan/jai_la_cle_homme.mp3'/>\nIt means, I have the key.\n\nPlease, ask for the key, from him.\nIn French, please is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/sil_te_plait__slow_femme.mp3'/>\nSay, [[s'il tle plaît|The opened ground hatch in the terrace]]",
+      "links": [
+        {
+          "name": "s'il tle plaît|The opened ground hatch in the terrace",
+          "link": "s'il tle plaît|The opened ground hatch in the terrace"
+        }
+      ],
+      "name": "The opened strongbox in the terrace",
+      "pid": "93",
+      "position": {
+        "x": "1918",
+        "y": "1409"
+      }
+    },
+    {
+      "text": "The safe won't open, because the code wasn't correct.\nYou can say: [[try again|First direction of the arrows in the terrace again]], or: look [[right|The table and chairs in the terrace]].",
+      "links": [
+        {
+          "name": "try again|First direction of the arrows in the terrace again",
+          "link": "try again|First direction of the arrows in the terrace again"
+        },
+        {
+          "name": "right|The table and chairs in the terrace",
+          "link": "right|The table and chairs in the terrace"
+        }
+      ],
+      "name": "The closed strongbox in the terrace",
+      "pid": "94",
+      "position": {
+        "x": "2036",
+        "y": "1412"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/lumiere_femme.mp3'/> gives you the key <audio src='https://s3.amazonaws.com/myadventurezlatoupan/la_cle_femme.mp3'/> and you open the hatch.\nInside, you see: <emphasis level=\"moderate\">a living cabinet.</emphasis>\nThanks to you, the cabinet named <audio src='https://s3.amazonaws.com/myadventurezlatoupan/armoire_femme.mp3'/> is free.\n\nShe tells you: good evening.\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/bonsoir_femme.mp3'/>\nSay, [[bonsoir|The terrace is unlocked]], to <audio src='https://s3.amazonaws.com/myadventurezlatoupan/armoire_femme.mp3'/>",
+      "links": [
+        {
+          "name": "bonsoir|The terrace is unlocked",
+          "link": "bonsoir|The terrace is unlocked"
+        }
+      ],
+      "name": "The opened ground hatch in the terrace",
+      "pid": "95",
+      "position": {
+        "x": "1917",
+        "y": "1524"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/je_mapelle_armoire_slow_femme.mp3'/>\nMy name is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/armoire_femme.mp3'/>\nit means: cabinet, in French.\nShe is really glad you saved her, and she tells you: thank you so much.\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/merci_beaucoup_femme.mp3'/>\n\nSay, [[merci beaucoup|Back to the ground floor again]], back to her.",
+      "links": [
+        {
+          "name": "merci beaucoup|Back to the ground floor again",
+          "link": "merci beaucoup|Back to the ground floor again"
+        }
+      ],
+      "name": "The terrace is unlocked",
+      "pid": "96",
+      "position": {
+        "x": "1914",
+        "y": "1637"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/you_unlocked_the_terrace_and_you_fried_the_cabinet_bravo.mp3'/>\n\nFor the full experience, you can meet us on the website. You will be able to speak with <audio src='https://s3.amazonaws.com/myadventurezlatoupan/armoire_femme.mp3'/> and discover more about the castle.\n\n<audio src='https://s3.amazonaws.com/ask-soundlibrary/foley/amzn_sfx_glasses_clink_01.mp3'/>\nThe website keyword of the terrace is the name of the cabinet: <audio src='https://s3.amazonaws.com/myadventurezlatoupan/armoire_femme.mp3'/>\n\n<prosody rate=\"x-slow\"><say-as interpret-as=\"spell-out\">a</say-as></prosody>,<prosody rate=\"x-slow\"><say-as interpret-as=\"spell-out\">r</say-as></prosody>,<prosody rate=\"x-slow\"><say-as interpret-as=\"spell-out\">m</say-as></prosody>,<prosody rate=\"x-slow\"><say-as interpret-as=\"spell-out\">o</say-as></prosody>,<prosody rate=\"x-slow\"><say-as interpret-as=\"spell-out\">i</say-as></prosody>,<prosody rate=\"x-slow\"><say-as interpret-as=\"spell-out\">r</say-as></prosody>,<prosody rate=\"x-slow\"><say-as interpret-as=\"spell-out\">e</say-as></prosody>.\n\nSay: stop, to stop playing for now, and, save your progress.\nYou can also say: [[continue]], to unlock more doors.\nThere are three rooms with prisoners in the ground floor.",
+      "links": [
+        {
+          "name": "continue",
+          "link": "continue",
+          "pid": "215"
+        }
+      ],
+      "name": "Back to the ground floor again",
+      "pid": "97",
+      "position": {
+        "x": "1913",
+        "y": "1752"
+      }
+    },
+    {
+      "text": "What is the first number you want to press?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/un_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/deux_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/trois_femme.mp3'/>\nYou can say [[un|Second code of the electrical panel access again]], [[deux|The second code of the electrical panel access again]], or, [[trois|The second code of the electrical panel access again]].",
+      "links": [
+        {
+          "name": "un|Second code of the electrical panel access again",
+          "link": "un|Second code of the electrical panel access again"
+        },
+        {
+          "name": "deux|The second code of the electrical panel access again",
+          "link": "deux|The second code of the electrical panel access again"
+        },
+        {
+          "name": "trois|The second code of the electrical panel access again",
+          "link": "trois|The second code of the electrical panel access again"
+        }
+      ],
+      "name": "First code of the electrical panel access again",
+      "pid": "98",
+      "position": {
+        "x": "1393",
+        "y": "1100"
+      }
+    },
+    {
+      "text": "Where do you want to plug the purple wire?\nDo you want to plug it at the socket named <audio src='https://s3.amazonaws.com/myadventurezlatoupan/violet_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/rose_femme.mp3'/>, or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/jaune_femme.mp3'/>\n\nYou can say [[veeolet|Plug the pink wire again]], [[rose|plugging the pink wire again]], or, [[jaune|plugging the pink wire again]]",
+      "links": [
+        {
+          "name": "veeolet|Plug the pink wire again",
+          "link": "veeolet|Plug the pink wire again"
+        },
+        {
+          "name": "rose|plugging the pink wire again",
+          "link": "rose|plugging the pink wire again"
+        },
+        {
+          "name": "jaune|plugging the pink wire again",
+          "link": "jaune|plugging the pink wire again"
+        }
+      ],
+      "name": "Plug the purple wire again",
+      "pid": "99",
+      "position": {
+        "x": "1213",
+        "y": "1994"
+      }
+    },
+    {
+      "text": "You remember that, right is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_femme.mp3'/> And, left is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gauche_femme.mp3'/>\n\nWhat is the direction you want to turn the first arrow?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gauche_femme.mp3'/>\nYou can say: [[droite|Second direction of the arrows in the terrace again]], or, [[gauche|The second direction of the arrows in the terrace again]].",
+      "links": [
+        {
+          "name": "droite|Second direction of the arrows in the terrace again",
+          "link": "droite|Second direction of the arrows in the terrace again"
+        },
+        {
+          "name": "gauche|The second direction of the arrows in the terrace again",
+          "link": "gauche|The second direction of the arrows in the terrace again"
+        }
+      ],
+      "name": "First direction of the arrows in the terrace again",
+      "pid": "100",
+      "position": {
+        "x": "2158",
+        "y": "1071"
+      }
+    },
+    {
+      "text": "What is the second number you want to press?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/un_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/deux_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/trois_femme.mp3'/>\nYou can say [[un|The third code of the electrical panel access again]], [[deux|Third code of the electrical panel access again]], or, [[trois|The third code of the electrical panel access again]].",
+      "links": [
+        {
+          "name": "un|The third code of the electrical panel access again",
+          "link": "un|The third code of the electrical panel access again"
+        },
+        {
+          "name": "deux|Third code of the electrical panel access again",
+          "link": "deux|Third code of the electrical panel access again"
+        },
+        {
+          "name": "trois|The third code of the electrical panel access again",
+          "link": "trois|The third code of the electrical panel access again"
+        }
+      ],
+      "name": "Second code of the electrical panel access again",
+      "pid": "101",
+      "position": {
+        "x": "1377",
+        "y": "1217"
+      }
+    },
+    {
+      "text": "What is the second number you want to press?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/un_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/deux_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/trois_femme.mp3'/>\nYou can say [[un|The third code of the electrical panel access again]] [[deux|The third code of the electrical panel access again]] or [[trois|The third code of the electrical panel access again]].",
+      "links": [
+        {
+          "name": "un|The third code of the electrical panel access again",
+          "link": "un|The third code of the electrical panel access again"
+        },
+        {
+          "name": "deux|The third code of the electrical panel access again",
+          "link": "deux|The third code of the electrical panel access again"
+        },
+        {
+          "name": "trois|The third code of the electrical panel access again",
+          "link": "trois|The third code of the electrical panel access again"
+        }
+      ],
+      "name": "The second code of the electrical panel access again",
+      "pid": "102",
+      "position": {
+        "x": "1486",
+        "y": "1215"
+      }
+    },
+    {
+      "text": "What is the third number you want to press?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/un_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/deux_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/trois_femme.mp3'/>\nYou can say [[un|The closed access of the electrical panel again]], [[deux|The closed access of the electrical panel again]], or, [[trois|The closed access of the electrical panel again]].",
+      "links": [
+        {
+          "name": "un|The closed access of the electrical panel again",
+          "link": "un|The closed access of the electrical panel again"
+        },
+        {
+          "name": "deux|The closed access of the electrical panel again",
+          "link": "deux|The closed access of the electrical panel again"
+        },
+        {
+          "name": "trois|The closed access of the electrical panel again",
+          "link": "trois|The closed access of the electrical panel again"
+        }
+      ],
+      "name": "The third code of the electrical panel access again",
+      "pid": "103",
+      "position": {
+        "x": "1486",
+        "y": "1322"
+      }
+    },
+    {
+      "text": "What is the third number you want to press?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/un_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/deux_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/trois_femme.mp3'/>\nYou can say [[un|The closed access of the electrical panel again]], [[deux|The closed access of the electrical panel again]], or, [[trois|The opended access of the electrical panel]].",
+      "links": [
+        {
+          "name": "un|The closed access of the electrical panel again",
+          "link": "un|The closed access of the electrical panel again"
+        },
+        {
+          "name": "deux|The closed access of the electrical panel again",
+          "link": "deux|The closed access of the electrical panel again"
+        },
+        {
+          "name": "trois|The opended access of the electrical panel",
+          "link": "trois|The opended access of the electrical panel"
+        }
+      ],
+      "name": "Third code of the electrical panel access again",
+      "pid": "104",
+      "position": {
+        "x": "1377",
+        "y": "1322"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/ask-soundlibrary/office/amzn_sfx_typing_short_02.mp3'/>\nYou don't have access to the electic panel, because the code wasn't correct.\n\nYou look at the book again. You see: the combination: one, two, three, under the electrical panel, in the book.\nOne, two, three, is\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/un_deux_trois_femme.mp3'/>\n\nSo, one, is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/un_femme.mp3'/>\n\nSay: [[un|Un is the first number of the panel]], to enter the code, one.",
+      "links": [
+        {
+          "name": "un|Un is the first number of the panel",
+          "link": "un|Un is the first number of the panel"
+        }
+      ],
+      "name": "The closed access of the electrical panel again",
+      "pid": "105",
+      "position": {
+        "x": "1488",
+        "y": "1427"
+      }
+    },
+    {
+      "text": "Where do you want to plug the pink wire?\nAt the socket named <audio src='https://s3.amazonaws.com/myadventurezlatoupan/violet_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/rose_femme.mp3'/>, or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/jaune_femme.mp3'/>\n\n\nYou can say [[veeolet|plugging the yellow wire again]] [[rose|Plug the yellow wire again]] or [[jaune|plugging the yellow wire again]].",
+      "links": [
+        {
+          "name": "veeolet|plugging the yellow wire again",
+          "link": "veeolet|plugging the yellow wire again"
+        },
+        {
+          "name": "rose|Plug the yellow wire again",
+          "link": "rose|Plug the yellow wire again"
+        },
+        {
+          "name": "jaune|plugging the yellow wire again",
+          "link": "jaune|plugging the yellow wire again"
+        }
+      ],
+      "name": "Plug the pink wire again",
+      "pid": "106",
+      "position": {
+        "x": "1214",
+        "y": "2101"
+      }
+    },
+    {
+      "text": "Where do you want to plug the pink wire?\nAt the socket named <audio src='https://s3.amazonaws.com/myadventurezlatoupan/violet_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/rose_femme.mp3'/>, or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/jaune_femme.mp3'/>\n\n\nYou can say [[veeolet|plugging the yellow wire again]] [[rose|plugging the yellow wire again]] or [[jaune|plugging the yellow wire again]].",
+      "links": [
+        {
+          "name": "veeolet|plugging the yellow wire again",
+          "link": "veeolet|plugging the yellow wire again"
+        },
+        {
+          "name": "rose|plugging the yellow wire again",
+          "link": "rose|plugging the yellow wire again"
+        },
+        {
+          "name": "jaune|plugging the yellow wire again",
+          "link": "jaune|plugging the yellow wire again"
+        }
+      ],
+      "name": "plugging the pink wire again",
+      "pid": "107",
+      "position": {
+        "x": "1324",
+        "y": "2102"
+      }
+    },
+    {
+      "text": "Where do you want to plug the yellow wire?\nAt the socket named <audio src='https://s3.amazonaws.com/myadventurezlatoupan/violet_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/rose_femme.mp3'/>, or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/jaune_femme.mp3'/>\n\nYou can say [[veeolet|the electricity doesn't work in the garage again]] [[rose|the electricity doesn't work in the garage again]] or [[jaune|the electricity doesn't work in the garage again]].",
+      "links": [
+        {
+          "name": "veeolet|the electricity doesn't work in the garage again",
+          "link": "veeolet|the electricity doesn't work in the garage again"
+        },
+        {
+          "name": "rose|the electricity doesn't work in the garage again",
+          "link": "rose|the electricity doesn't work in the garage again"
+        },
+        {
+          "name": "jaune|the electricity doesn't work in the garage again",
+          "link": "jaune|the electricity doesn't work in the garage again"
+        }
+      ],
+      "name": "plugging the yellow wire again",
+      "pid": "108",
+      "position": {
+        "x": "1323",
+        "y": "2208"
+      }
+    },
+    {
+      "text": "Where do you want to plug the yellow wire?\nAt the socket named <audio src='https://s3.amazonaws.com/myadventurezlatoupan/violet_femme.mp3'/> or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/rose_femme.mp3'/>, or <audio src='https://s3.amazonaws.com/myadventurezlatoupan/jaune_femme.mp3'/>\n\nYou can say [[veeolet|the electricity doesn't work in the garage again]] [[rose|the electricity doesn't work in the garage again]] or [[jaune|the electricity in the garage]].",
+      "links": [
+        {
+          "name": "veeolet|the electricity doesn't work in the garage again",
+          "link": "veeolet|the electricity doesn't work in the garage again"
+        },
+        {
+          "name": "rose|the electricity doesn't work in the garage again",
+          "link": "rose|the electricity doesn't work in the garage again"
+        },
+        {
+          "name": "jaune|the electricity in the garage",
+          "link": "jaune|the electricity in the garage"
+        }
+      ],
+      "name": "Plug the yellow wire again",
+      "pid": "109",
+      "position": {
+        "x": "1214",
+        "y": "2207"
+      }
+    },
+    {
+      "text": "Oh no!\nThe eletricity is still not working because the connection is not correct.\n\nYou look at the cans again.\nThe can are purple, pink, and yellow.\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/violet_rose_jaune_femme.mp3'/>\n\nSo, purple, is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/violet_femme.mp3'/>\nSay: [[veeolet|Violet is the purple wire]], to plug the purple wire.",
+      "links": [
+        {
+          "name": "veeolet|Violet is the purple wire",
+          "link": "veeolet|Violet is the purple wire"
+        }
+      ],
+      "name": "the electricity doesn't work in the garage again",
+      "pid": "110",
+      "position": {
+        "x": "1325",
+        "y": "2314"
+      }
+    },
+    {
+      "text": "What is the direction of the second arrow?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gauche_femme.mp3'/>\nYou can say [[droite|The third direction of the arrows in the terrace again]] or [[gauche|Third direction of the arrows in the terrace again]].",
+      "links": [
+        {
+          "name": "droite|The third direction of the arrows in the terrace again",
+          "link": "droite|The third direction of the arrows in the terrace again"
+        },
+        {
+          "name": "gauche|Third direction of the arrows in the terrace again",
+          "link": "gauche|Third direction of the arrows in the terrace again"
+        }
+      ],
+      "name": "Second direction of the arrows in the terrace again",
+      "pid": "111",
+      "position": {
+        "x": "2154",
+        "y": "1191"
+      }
+    },
+    {
+      "text": "What is the direction of the second arrow?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gauche_femme.mp3'/>\nYou can say [[droite|The third direction of the arrows in the terrace again]] or [[gauche|The third direction of the arrows in the terrace again]].",
+      "links": [
+        {
+          "name": "droite|The third direction of the arrows in the terrace again",
+          "link": "droite|The third direction of the arrows in the terrace again"
+        },
+        {
+          "name": "gauche|The third direction of the arrows in the terrace again",
+          "link": "gauche|The third direction of the arrows in the terrace again"
+        }
+      ],
+      "name": "The second direction of the arrows in the terrace again",
+      "pid": "112",
+      "position": {
+        "x": "2265",
+        "y": "1193"
+      }
+    },
+    {
+      "text": "What is the direction of the third arrow?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gauche_femme.mp3'/>\nYou can say [[droite|The closed strongbox in the terrace again]] or [[gauche|The closed strongbox in the terrace again]].",
+      "links": [
+        {
+          "name": "droite|The closed strongbox in the terrace again",
+          "link": "droite|The closed strongbox in the terrace again"
+        },
+        {
+          "name": "gauche|The closed strongbox in the terrace again",
+          "link": "gauche|The closed strongbox in the terrace again"
+        }
+      ],
+      "name": "The third direction of the arrows in the terrace again",
+      "pid": "113",
+      "position": {
+        "x": "2266",
+        "y": "1301"
+      }
+    },
+    {
+      "text": "What is the direction of the third arrow?\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gauche_femme.mp3'/>\nYou can say [[droite|The opened strongbox in the terrace]] or [[gauche|The closed strongbox in the terrace again]].",
+      "links": [
+        {
+          "name": "droite|The opened strongbox in the terrace",
+          "link": "droite|The opened strongbox in the terrace"
+        },
+        {
+          "name": "gauche|The closed strongbox in the terrace again",
+          "link": "gauche|The closed strongbox in the terrace again"
+        }
+      ],
+      "name": "Third direction of the arrows in the terrace again",
+      "pid": "114",
+      "position": {
+        "x": "2155",
+        "y": "1301"
+      }
+    },
+    {
+      "text": "The safe won't open because the code wasn't correct.\n\nYou look at the chess pieces again. \nYou see: the arrows pointing: <prosody rate=\"slow\">Right, left, right.</prosody>\n\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_gauche_droite_femme.mp3'/>\n\nSo, right, is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_femme.mp3'/>\n\nSay: [[droite|Droite is the first direction of the strongbox]], to turn right, the arrow.",
+      "links": [
+        {
+          "name": "droite|Droite is the first direction of the strongbox",
+          "link": "droite|Droite is the first direction of the strongbox"
+        }
+      ],
+      "name": "The closed strongbox in the terrace again",
+      "pid": "115",
+      "position": {
+        "x": "2266",
+        "y": "1408"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/bleu_gris_orange_femme.mp3'/> \n\nSo that must means, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gris_femme.mp3'/> is, grey.\n\nSay: [[gree|Gris is the second code of the computer]], to enter the color grey, in the computer.",
+      "links": [
+        {
+          "name": "gree|Gris is the second code of the computer",
+          "link": "gree|Gris is the second code of the computer"
+        }
+      ],
+      "name": "Bleu is the first code of the computer",
+      "pid": "116",
+      "position": {
+        "x": "210",
+        "y": "2098"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/bleu_gris_orange_femme.mp3'/> \nSo that must means, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/orange_femme.mp3'/> is, orange.\n\nSay: [[orange|Orange is the third code of the computer]], to enter the color orange, in the computer.",
+      "links": [
+        {
+          "name": "orange|Orange is the third code of the computer",
+          "link": "orange|Orange is the third code of the computer"
+        }
+      ],
+      "name": "Gris is the second code of the computer",
+      "pid": "117",
+      "position": {
+        "x": "209",
+        "y": "2208"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/oui_int.mp3'/>\nThe code was correct.\nOn the screen, you see a compass, with the directions:\nNorth. East. South. West. \n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/nord_est_sud_ouest_femme.mp3'/>\n<audio src='https://s3.amazonaws.com/ask-soundlibrary/foley/amzn_sfx_glasses_clink_01.mp3'/>\nUnder it,  it’s written:\n<prosody rate=\"slow\">South. East. North.</prosody>\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/sud_est_nord_femme.mp3'/>\n\nNow, you can say: [[look left|The sofa in the living room]].",
+      "links": [
+        {
+          "name": "look left|The sofa in the living room",
+          "link": "look left|The sofa in the living room"
+        }
+      ],
+      "name": "Orange is the third code of the computer",
+      "pid": "118",
+      "position": {
+        "x": "210",
+        "y": "2316"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/sud_est_nord_femme.mp3'/>\n\nSo that must means, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/est_femme.mp3'/> is, East.\n\nSay: [[este|Est is the second direction of the box]], to enter East, in the box.",
+      "links": [
+        {
+          "name": "este|Est is the second direction of the box",
+          "link": "este|Est is the second direction of the box"
+        }
+      ],
+      "name": "Sud is the first direction of the box",
+      "pid": "119",
+      "position": {
+        "x": "520",
+        "y": "1884"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/sud_est_nord_femme.mp3'/>\n\nSo that must means, <audio src='https://s3.amazonaws.com/myadventurezlatoupan/nord_femme.mp3'/> is, North.\n\nSay: [[nord|Nord is the third direction of the box]], to enter North, in the box.",
+      "links": [
+        {
+          "name": "nord|Nord is the third direction of the box",
+          "link": "nord|Nord is the third direction of the box"
+        }
+      ],
+      "name": "Est is the second direction of the box",
+      "pid": "120",
+      "position": {
+        "x": "524",
+        "y": "1999"
+      }
+    },
+    {
+      "text": "<say-as interpret-as=\"interjection\">Well done!</say-as>\nThe box opens and you see a key inside. <audio src='https://s3.amazonaws.com/myadventurezlatoupan/lumiere_femme.mp3'/> is so happy, he yells: <audio src='https://s3.amazonaws.com/myadventurezlatoupan/la_cle_the_key_you_found_it.mp3'/> You go forward and open the door. \n\nBehind the door, you find a clock asleep in a small bed. Thanks to you the clock named <audio src='https://s3.amazonaws.com/myadventurezlatoupan/horloge_femme.mp3'/> is free. She is really glad you saved her, she tells you: thank you.\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/merci_femme.mp3'/>\n\nSay [[merci|The living room is unlocked]], back to her.",
+      "links": [
+        {
+          "name": "merci|The living room is unlocked",
+          "link": "merci|The living room is unlocked"
+        }
+      ],
+      "name": "Nord is the third direction of the box",
+      "pid": "121",
+      "position": {
+        "x": "523",
+        "y": "2120"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/un_deux_trois_femme.mp3'/>\n\nSo, two, is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/deux_femme.mp3'/>\n\nSay: [[deux|Deux is the second number of the panel]], to enter the code, two.",
+      "links": [
+        {
+          "name": "deux|Deux is the second number of the panel",
+          "link": "deux|Deux is the second number of the panel"
+        }
+      ],
+      "name": "Un is the first number of the panel",
+      "pid": "122",
+      "position": {
+        "x": "1489",
+        "y": "1537"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/un_deux_trois_femme.mp3'/>\n\nSo, three, is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/trois_femme.mp3'/>\n\nSay: [[trois|trois is the third number of the panel]], to enter the code, three.",
+      "links": [
+        {
+          "name": "trois|trois is the third number of the panel",
+          "link": "trois|trois is the third number of the panel"
+        }
+      ],
+      "name": "Deux is the second number of the panel",
+      "pid": "123",
+      "position": {
+        "x": "1487",
+        "y": "1649"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/bravo_intj.mp3'/>\nYou now have access to the electrical panel.\nYou see: three electric wires. \nA purple one, a pink one, and a yellow one.\nAnd you see: three power sockets.\n<break time=\"0.5s\"/>\nUnder each socket, is written a color. \n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/violet_rose_jaune_femme.mp3'/>\nYou remember that purple, is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/violet_femme.mp3'/> Pink, is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/rose_femme.mp3'/> And yellow, is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/jaune_femme.mp3'/>\n\nYou're going to have to plug the wires, into the correct socket.\nAre you ready? Say: [[oui|Plug the purple wire]], to start.",
+      "links": [
+        {
+          "name": "oui|Plug the purple wire",
+          "link": "oui|Plug the purple wire"
+        }
+      ],
+      "name": "trois is the third number of the panel",
+      "pid": "124",
+      "position": {
+        "x": "1488",
+        "y": "1755"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/violet_rose_jaune_femme.mp3'/>\n\nSo, pink, is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/rose_femme.mp3'/>\nSay: [[rose|Rose is the pink wire]], to plug the pink wire.",
+      "links": [
+        {
+          "name": "rose|Rose is the pink wire",
+          "link": "rose|Rose is the pink wire"
+        }
+      ],
+      "name": "Violet is the purple wire",
+      "pid": "125",
+      "position": {
+        "x": "1325",
+        "y": "2422"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/violet_rose_jaune_femme.mp3'/>\n\nSo, yellow, is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/jaune_femme.mp3'/>\nSay: [[jaune|Jaune is the yellow wire]], to plug the yellow wire.",
+      "links": [
+        {
+          "name": "jaune|Jaune is the yellow wire",
+          "link": "jaune|Jaune is the yellow wire"
+        }
+      ],
+      "name": "Rose is the pink wire",
+      "pid": "126",
+      "position": {
+        "x": "1324",
+        "y": "2531"
+      }
+    },
+    {
+      "text": "<say-as interpret-as=\"interjection\">Well done!</say-as>\nThe light comes on.\n<audio src='https://s3.amazonaws.com/ask-soundlibrary/office/amzn_sfx_elevator_bell_1x_01.mp3'/>\nThe elevator door opens and you see: a living cup.\nThanks to you, the cup named <audio src='https://s3.amazonaws.com/myadventurezlatoupan/tasse_femme.mp3'/> is free. \nShe is really glad you saved her, she tells you: thank you.\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/merci_femme.mp3'/>\nSay: you're welcome! To <audio src='https://s3.amazonaws.com/myadventurezlatoupan/tasse_femme.mp3'/>\nIt's <audio src='https://s3.amazonaws.com/myadventurezlatoupan/de_rien_femme.mp3'/>\nSay [[de rien|The garage is unlocked]]",
+      "links": [
+        {
+          "name": "de rien|The garage is unlocked",
+          "link": "de rien|The garage is unlocked"
+        }
+      ],
+      "name": "Jaune is the yellow wire",
+      "pid": "127",
+      "position": {
+        "x": "1324",
+        "y": "2638"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_gauche_droite_femme.mp3'/>\n\nSo, left, is <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gauche_femme.mp3'/>\n\nSay: [[gauche|Gauche is the second direction of the strongbox]], to turn left, the arrow.",
+      "links": [
+        {
+          "name": "gauche|Gauche is the second direction of the strongbox",
+          "link": "gauche|Gauche is the second direction of the strongbox"
+        }
+      ],
+      "name": "Droite is the first direction of the strongbox",
+      "pid": "128",
+      "position": {
+        "x": "2268",
+        "y": "1514"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_gauche_droite_femme.mp3'/>\n\nSay: [[droite|Droite is the thrid direction of the strongbox]], to turn right, the last arrow.",
+      "links": [
+        {
+          "name": "droite|Droite is the thrid direction of the strongbox",
+          "link": "droite|Droite is the thrid direction of the strongbox"
+        }
+      ],
+      "name": "Gauche is the second direction of the strongbox",
+      "pid": "129",
+      "position": {
+        "x": "2268",
+        "y": "1620"
+      }
+    },
+    {
+      "text": "<say-as interpret-as=\"interjection\">Well done!</say-as>\nThe safe opens. <audio src='https://s3.amazonaws.com/myadventurezlatoupan/lumiere_femme.mp3'/> looks inside, and there is the key!\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/la_cle_femme.mp3'/>\nHe says: <audio src='https://s3.amazonaws.com/myadventurezlatoupan/jai_la_cle_homme.mp3'/>\nIt means, I have the key.\n\nYou want to ask for the key from <audio src='https://s3.amazonaws.com/myadventurezlatoupan/lumiere_femme.mp3'/> to open the hatch.\nSay, please, to him, it's <audio src='https://s3.amazonaws.com/myadventurezlatoupan/sil_te_plait__slow_femme.mp3'/>\nSay, [[s'il tle plaît|The opened ground hatch in the terrace]]",
+      "links": [
+        {
+          "name": "s'il tle plaît|The opened ground hatch in the terrace",
+          "link": "s'il tle plaît|The opened ground hatch in the terrace"
+        }
+      ],
+      "name": "Droite is the thrid direction of the strongbox",
+      "pid": "130",
+      "position": {
+        "x": "2268",
+        "y": "1728"
+      }
+    },
+    {
+      "text": "The sign next to the door says: <audio src='https://s3.amazonaws.com/myadventurezlatoupan/bonjour_intj.mp3'/>\n\nNow, you can say press [[doorbell|Doorbell again]].",
+      "links": [
+        {
+          "name": "doorbell|Doorbell again",
+          "link": "doorbell|Doorbell again"
+        }
+      ],
+      "name": "Sign next to the door",
+      "pid": "131",
+      "position": {
+        "x": "422",
+        "y": "324"
+      }
+    },
+    {
+      "text": "You go up the spiral staircase, but, a big painting is blocking the entrance and asks you for the password. \nYou can either look at the [[sign|The sign of the painting]], next to the painting. Or, [[ask Lumiere|Asking Lumiere the password]] for the password. What to you want to do?",
+      "links": [
+        {
+          "name": "sign|The sign of the painting",
+          "link": "sign|The sign of the painting"
+        },
+        {
+          "name": "ask Lumiere|Asking Lumiere the password",
+          "link": "ask Lumiere|Asking Lumiere the password"
+        }
+      ],
+      "name": "Second floor",
+      "pid": "132",
+      "position": {
+        "x": "298",
+        "y": "2997"
+      }
+    },
+    {
+      "text": "You look at the sign, and you see: a drawing of a castle. \nUnder it, is written: <audio src='https://s3.amazonaws.com/trappedinf/chateau_femme.mp3'/> \n\nSo <audio src='https://s3.amazonaws.com/trappedinf/chateau_femme.mp3'/> must mean: castle, in French.\nNow, you can say, [[enter password|The password of the painting]].",
+      "links": [
+        {
+          "name": "enter password|The password of the painting",
+          "link": "enter password|The password of the painting"
+        }
+      ],
+      "name": "The sign of the painting",
+      "pid": "133",
+      "position": {
+        "x": "219",
+        "y": "3125"
+      }
+    },
+    {
+      "text": "You find Lumière in \"LE SALON.MP3\" and ask him what the password is.\n(Lumiere voice:) Ah oui the painting is protecting the way. The password is <audio src='https://s3.amazonaws.com/trappedinf/chateau_femme.mp3'/> That means castle in French.\nNow, you can say: [[enter password|The password of the painting]]",
+      "links": [
+        {
+          "name": "enter password|The password of the painting",
+          "link": "enter password|The password of the painting"
+        }
+      ],
+      "name": "Asking Lumiere the password",
+      "pid": "134",
+      "position": {
+        "x": "373",
+        "y": "3123"
+      }
+    },
+    {
+      "text": "In order to give the password, you need, to press on the correct part of the painting. \nYou see a castle, and, a house.\nWhat do you want to press?\n<audio src='https://s3.amazonaws.com/trappedinf/chateau_femme.mp3'/> or <audio src='https://s3.amazonaws.com/trappedinf/la_maison_femme.mp3'/>\nYou can say, [[chateau|The painting opens]], or, [[maison|The painting doesn't opens]]",
+      "links": [
+        {
+          "name": "chateau|The painting opens",
+          "link": "chateau|The painting opens"
+        },
+        {
+          "name": "maison|The painting doesn't opens",
+          "link": "maison|The painting doesn't opens"
+        }
+      ],
+      "name": "The password of the painting",
+      "pid": "135",
+      "position": {
+        "x": "302",
+        "y": "3245"
+      }
+    },
+    {
+      "text": "Bravo\nYou enter the second floor. \nThe painting tells you <audio src='https://s3.amazonaws.com/trappedinf/bonjour_je_mappelle_tableau_homme.mp3'/>\n<audio src='https://s3.amazonaws.com/trappedinf/tableau_femme.mp3'/> means: painting, in French.\nAnd, he asks you <audio src='https://s3.amazonaws.com/trappedinf/comment_tu_tappelles_homme.mp3'/> Which means, what's your name. \nTell him your name, by starting with: [[je m'appelle|Entrance of the first floor]]",
+      "links": [
+        {
+          "name": "je m'appelle|Entrance of the first floor",
+          "link": "je m'appelle|Entrance of the first floor"
+        }
+      ],
+      "name": "The painting opens",
+      "pid": "136",
+      "position": {
+        "x": "225",
+        "y": "3372"
+      }
+    },
+    {
+      "text": "The painting won't open because the password is not \"la maison\".\nYou are not in a house but in a castle!\nNow, say [[chateau|The painting opens]] to press on the castle and open the door.",
+      "links": [
+        {
+          "name": "chateau|The painting opens",
+          "link": "chateau|The painting opens"
+        }
+      ],
+      "name": "The painting doesn't opens",
+      "pid": "137",
+      "position": {
+        "x": "375",
+        "y": "3371"
+      }
+    },
+    {
+      "text": "That's a nice name!\nAnd <audio src='https://s3.amazonaws.com/trappedinf/tableau_femme.mp3'/> tells you\n<audio src='https://s3.amazonaws.com/trappedinf/comment_ca_va_homme.mp3'/> Which means: How are you?\nTell him; fine <audio src='https://s3.amazonaws.com/trappedinf/ca_va_femme.mp3'/> , good / <audio src='https://s3.amazonaws.com/trappedinf/bien_femme.mp3'/>, or very good <audio src='https://s3.amazonaws.com/trappedinf/tres_bien_femme.mp3'/>\nYou can say [[ça va|ca va]], [[bien|bien]], or, [[très bien|tres bien]].",
+      "links": [
+        {
+          "name": "ça va|ca va",
+          "link": "ça va|ca va"
+        },
+        {
+          "name": "bien|bien",
+          "link": "bien|bien"
+        },
+        {
+          "name": "très bien|tres bien",
+          "link": "très bien|tres bien"
+        }
+      ],
+      "name": "Entrance of the first floor",
+      "pid": "138",
+      "position": {
+        "x": "302",
+        "y": "3498"
+      }
+    },
+    {
+      "text": "Now, ask: Tableau, how he is doing! Say <audio src='https://s3.amazonaws.com/trappedinf/et_toi_femme.mp3'/> which means: and you? \nyou can say [[Et toi|et toi]]? ",
+      "links": [
+        {
+          "name": "Et toi|et toi",
+          "link": "Et toi|et toi"
+        }
+      ],
+      "name": "ca va",
+      "pid": "139",
+      "position": {
+        "x": "193",
+        "y": "3597"
+      }
+    },
+    {
+      "text": "Now, ask: Tableau, how he is doing! Say <audio src='https://s3.amazonaws.com/trappedinf/et_toi_femme.mp3'/> which means: and you? \nyou can say [[Et toi|et toi]]? ",
+      "links": [
+        {
+          "name": "Et toi|et toi",
+          "link": "Et toi|et toi"
+        }
+      ],
+      "name": "bien",
+      "pid": "140",
+      "position": {
+        "x": "301",
+        "y": "3608"
+      }
+    },
+    {
+      "text": "Now, ask: Tableau, how he is doing! Say <audio src='https://s3.amazonaws.com/trappedinf/et_toi_femme.mp3'/> which means: and you? \nyou can say [[Et toi|et toi]]? ",
+      "links": [
+        {
+          "name": "Et toi|et toi",
+          "link": "Et toi|et toi"
+        }
+      ],
+      "name": "tres bien",
+      "pid": "141",
+      "position": {
+        "x": "415",
+        "y": "3596"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/trappedinf/ca_va_tres_bien_merci_homme.mp3'/>\nAnd he asks you if you are the one who saved <audio src='https://s3.amazonaws.com/trappedinf/le_rez_de_chaussee_homme.mp3'/> \nWhich means \"the ground floor\". You explain that you did save it and that you're actually here to go unlock more doors! \n\nOkay, there are three rooms on the first floor. There is <audio src='https://s3.amazonaws.com/trappedinf/la_chambre_femme.mp3'/> the bedroom, <audio src='https://s3.amazonaws.com/trappedinf/la_cuisine_femme.mp3'/> the kitchen and <audio src='https://s3.amazonaws.com/trappedinf/le_balcon_femme.mp3'/>, the balcony. \nWhere do you want to go? You can say the [[bedroom|Bedroom]], the [[kitchen|Kitchen]] or the [[balcony|Balcony]].",
+      "links": [
+        {
+          "name": "bedroom|Bedroom",
+          "link": "bedroom|Bedroom"
+        },
+        {
+          "name": "kitchen|Kitchen",
+          "link": "kitchen|Kitchen"
+        },
+        {
+          "name": "balcony|Balcony",
+          "link": "balcony|Balcony"
+        }
+      ],
+      "name": "et toi",
+      "pid": "142",
+      "position": {
+        "x": "302",
+        "y": "3719"
+      }
+    },
+    {
+      "text": "Okay, let's go to the bedroom, or, <audio src='https://s3.amazonaws.com/trappedinf/la_chambre_femme.mp3'/> in French.\nThe bedroom is big, and very well arranged.\nYou can look left <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gauche_femme.mp3'/>, or, right <audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_femme.mp3'/>, \nYou can say: [[gauche|Nightstand of the bedroom]] or [[droite|Bookcase of the bedroom]].",
+      "links": [
+        {
+          "name": "gauche|Nightstand of the bedroom",
+          "link": "gauche|Nightstand of the bedroom"
+        },
+        {
+          "name": "droite|Bookcase of the bedroom",
+          "link": "droite|Bookcase of the bedroom"
+        }
+      ],
+      "name": "Bedroom",
+      "pid": "143",
+      "position": {
+        "x": "300",
+        "y": "3897"
+      }
+    },
+    {
+      "text": "Okay, let's go to the kitchen, or, <audio src='https://s3.amazonaws.com/trappedinf/la_cuisine_femme.mp3'/> in French.\nIt's a very big kitchen but a little bit messy.\nYou see a small door at the end of the kitchen. It is locked.\nYou can look left <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gauche_femme.mp3'/>, or, right <audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_femme.mp3'/>\nYou can say [[gauche|Counter of the kitchen]], or, [[droite|Fridge of the kitchen]]",
+      "links": [
+        {
+          "name": "gauche|Counter of the kitchen",
+          "link": "gauche|Counter of the kitchen"
+        },
+        {
+          "name": "droite|Fridge of the kitchen",
+          "link": "droite|Fridge of the kitchen"
+        }
+      ],
+      "name": "Kitchen",
+      "pid": "144",
+      "position": {
+        "x": "1132",
+        "y": "3900"
+      }
+    },
+    {
+      "text": "Okay, let's go to the balcony, or, <audio src='https://s3.amazonaws.com/trappedinf/le_balcon_femme.mp3'/> in French.\nOn the side of the balcony, you see a locked door that needs a key. \nWhat do you want to do?\nYou can say left <audio src='https://s3.amazonaws.com/myadventurezlatoupan/gauche_femme.mp3'/>, or, right <audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_femme.mp3'/>\nYou can say [[gauche|The magazine of the balcony]] or [[droite|The table of the balcony]]",
+      "links": [
+        {
+          "name": "gauche|The magazine of the balcony",
+          "link": "gauche|The magazine of the balcony"
+        },
+        {
+          "name": "droite|The table of the balcony",
+          "link": "droite|The table of the balcony"
+        }
+      ],
+      "name": "Balcony",
+      "pid": "145",
+      "position": {
+        "x": "1900",
+        "y": "3897"
+      }
+    },
+    {
+      "text": "On the left, you see a nightstand with two drawers. Do you want to look in the top or bottom drawer? \nSay <audio src='https://s3.amazonaws.com/trappedinf/en_haut_femme.mp3'/>, for the top drawer and <audio src='https://s3.amazonaws.com/trappedinf/en_bas_femme.mp3'/>, for the bottom drawer.\nYou can say [[en haut| At the top of the nightstand]] or [[en bas|At the bottom of the nightstand]]",
+      "links": [
+        {
+          "name": "en haut| At the top of the nightstand",
+          "link": "en haut| At the top of the nightstand"
+        },
+        {
+          "name": "en bas|At the bottom of the nightstand",
+          "link": "en bas|At the bottom of the nightstand"
+        }
+      ],
+      "name": "Nightstand of the bedroom",
+      "pid": "146",
+      "position": {
+        "x": "222",
+        "y": "4016"
+      }
+    },
+    {
+      "text": "On the right, you see a bookcase with a lot of french books. One is bigger than the others. It looks like a magic book and you need to say a spell to open it. The spell contains the days of the week. If you are ready, say: open in French, it's <audio src='https://s3.amazonaws.com/trappedinf/ouvrir_femme.mp3'/> to try to open the book. Otherwise, if you didn't see any clues about days of the week say look <audio src='https://s3.amazonaws.com/myadventurezlatoupan/droite_femme.mp3'/>\nYou can say: [[ouvrir|Code of the electrical book of the bookcase]], or, [[droite|Nightstand of the bedroom]].",
+      "links": [
+        {
+          "name": "ouvrir|Code of the electrical book of the bookcase",
+          "link": "ouvrir|Code of the electrical book of the bookcase"
+        },
+        {
+          "name": "droite|Nightstand of the bedroom",
+          "link": "droite|Nightstand of the bedroom"
+        }
+      ],
+      "name": "Bookcase of the bedroom",
+      "pid": "147",
+      "position": {
+        "x": "375",
+        "y": "4018"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/trappedinf/en_haut_femme.mp3'/> you see a map of the castle.\nYou see the first floor, the second floor and the third floor. \nUnder it, it's written:\n<audio src='https://s3.amazonaws.com/trappedinf/premier_femme.mp3'/>, which means first.\n<audio src='https://s3.amazonaws.com/trappedinf/deuxieme_femme.mp3'/>, which means second.\nand <audio src='https://s3.amazonaws.com/trappedinf/troisieme_femme.mp3'/> wich means third. \n \nNow look at the bottom by saying [[en bas|At the bottom of the nightstand]].\nOtherwise say look [[left|Bookcase of the bedroom]].",
+      "links": [
+        {
+          "name": "en bas|At the bottom of the nightstand",
+          "link": "en bas|At the bottom of the nightstand"
+        },
+        {
+          "name": "left|Bookcase of the bedroom",
+          "link": "left|Bookcase of the bedroom"
+        }
+      ],
+      "name": " At the top of the nightstand",
+      "pid": "148",
+      "position": {
+        "x": "223",
+        "y": "4130"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/trappedinf/en_bas_femme.mp3'/>, you see a Calendar.\nIn France, the Calendar starts on Monday.\nYou read <audio src='https://s3.amazonaws.com/trappedinf/lundi_femme.mp3'/>, <audio src='https://s3.amazonaws.com/trappedinf/mardi_femme.mp3'/>, <audio src='https://s3.amazonaws.com/trappedinf/mercredi_femme.mp3'/>\nSo that must mean Monday is <audio src='https://s3.amazonaws.com/trappedinf/lundi_femme.mp3'/>\nSay [[lundi|The calendar of the nightstand]]",
+      "links": [
+        {
+          "name": "lundi|The calendar of the nightstand",
+          "link": "lundi|The calendar of the nightstand"
+        }
+      ],
+      "name": "At the bottom of the nightstand",
+      "pid": "149",
+      "position": {
+        "x": "223",
+        "y": "4240"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/trappedinf/lundi_mardi_mercredi_femme.mp3'/>\nSo that must mean Tuesday is <audio src='https://s3.amazonaws.com/trappedinf/mardi_femme.mp3'/>\nSay [[mardi|Calendar of the nightstand]]",
+      "links": [
+        {
+          "name": "mardi|Calendar of the nightstand",
+          "link": "mardi|Calendar of the nightstand"
+        }
+      ],
+      "name": "The calendar of the nightstand",
+      "pid": "150",
+      "position": {
+        "x": "221",
+        "y": "4348"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/trappedinf/lundi_mardi_mercredi_femme.mp3'/>\nSo that must mean <audio src='https://s3.amazonaws.com/trappedinf/mercredi_femme.mp3'/> is Wednesday\nSay [[mercredi|The end of the calendar of the nightstand]]",
+      "links": [
+        {
+          "name": "mercredi|The end of the calendar of the nightstand",
+          "link": "mercredi|The end of the calendar of the nightstand"
+        }
+      ],
+      "name": "Calendar of the nightstand",
+      "pid": "151",
+      "position": {
+        "x": "222",
+        "y": "4455"
+      }
+    },
+    {
+      "text": "Bravo! \n<audio src='https://s3.amazonaws.com/trappedinf/lundi_mardi_mercredi_femme.mp3'/>\nNow you can say look [[en haut|At the bottom of the nightstand]].\nOtherwise, you can say look [[droite|Bookcase of the bedroom]].",
+      "links": [
+        {
+          "name": "en haut|At the bottom of the nightstand",
+          "link": "en haut|At the bottom of the nightstand"
+        },
+        {
+          "name": "droite|Bookcase of the bedroom",
+          "link": "droite|Bookcase of the bedroom"
+        }
+      ],
+      "name": "The end of the calendar of the nightstand",
+      "pid": "152",
+      "position": {
+        "x": "223",
+        "y": "4565"
+      }
+    },
+    {
+      "text": "The magic book asks what is the <audio src='https://s3.amazonaws.com/trappedinf/premier_femme.mp3'/> day of the week.\n<audio src='https://s3.amazonaws.com/trappedinf/premier_femme.mp3'/> means first.\nIs it <audio src='https://s3.amazonaws.com/trappedinf/lundi_femme.mp3'/>, <audio src='https://s3.amazonaws.com/trappedinf/mardi_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/trappedinf/mercredi_femme.mp3'/>\nYou can say [[lundi|Second code of the electrical book]], [[mardi|The second code of the electrical book]], or, [[mercredi|The second code of the electrical book]]?",
+      "links": [
+        {
+          "name": "lundi|Second code of the electrical book",
+          "link": "lundi|Second code of the electrical book"
+        },
+        {
+          "name": "mardi|The second code of the electrical book",
+          "link": "mardi|The second code of the electrical book"
+        },
+        {
+          "name": "mercredi|The second code of the electrical book",
+          "link": "mercredi|The second code of the electrical book"
+        }
+      ],
+      "name": "Code of the electrical book of the bookcase",
+      "pid": "153",
+      "position": {
+        "x": "423",
+        "y": "4127"
+      }
+    },
+    {
+      "text": "What is the deuxième second day of the week?\nSecond means second.\nIs it [[lundi|The third code of the electrical book]], [[mardi|The third code of the electrical book]], [[mercredi|The third code of the electrical book]]?",
+      "links": [
+        {
+          "name": "lundi|The third code of the electrical book",
+          "link": "lundi|The third code of the electrical book"
+        },
+        {
+          "name": "mardi|The third code of the electrical book",
+          "link": "mardi|The third code of the electrical book"
+        },
+        {
+          "name": "mercredi|The third code of the electrical book",
+          "link": "mercredi|The third code of the electrical book"
+        }
+      ],
+      "name": "The second code of the electrical book",
+      "pid": "154",
+      "position": {
+        "x": "488",
+        "y": "4242"
+      }
+    },
+    {
+      "text": "What is the <audio src='https://s3.amazonaws.com/trappedinf/deuxieme_femme.mp3'/> day of the week?\n<audio src='https://s3.amazonaws.com/trappedinf/deuxieme_femme.mp3'/> means second.\nIs it <audio src='https://s3.amazonaws.com/trappedinf/lundi_femme.mp3'/>, <audio src='https://s3.amazonaws.com/trappedinf/mardi_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/trappedinf/mercredi_femme.mp3'/>\nYou can say [[lundi|The third code of the electrical book]], [[mardi|Third code of the electrical book]], [[mercredi|The third code of the electrical book]]?",
+      "links": [
+        {
+          "name": "lundi|The third code of the electrical book",
+          "link": "lundi|The third code of the electrical book"
+        },
+        {
+          "name": "mardi|Third code of the electrical book",
+          "link": "mardi|Third code of the electrical book"
+        },
+        {
+          "name": "mercredi|The third code of the electrical book",
+          "link": "mercredi|The third code of the electrical book"
+        }
+      ],
+      "name": "Second code of the electrical book",
+      "pid": "155",
+      "position": {
+        "x": "347",
+        "y": "4240"
+      }
+    },
+    {
+      "text": "What is the troisième third day of the week?\nTroisième means third.\nIs it [[lundi|The closed electrical book]], [[mardi|The closed electrical book]], [[mercredi|The closed electrical book]]?",
+      "links": [
+        {
+          "name": "lundi|The closed electrical book",
+          "link": "lundi|The closed electrical book"
+        },
+        {
+          "name": "mardi|The closed electrical book",
+          "link": "mardi|The closed electrical book"
+        },
+        {
+          "name": "mercredi|The closed electrical book",
+          "link": "mercredi|The closed electrical book"
+        }
+      ],
+      "name": "The third code of the electrical book",
+      "pid": "156",
+      "position": {
+        "x": "489",
+        "y": "4352"
+      }
+    },
+    {
+      "text": "What is the <audio src='https://s3.amazonaws.com/trappedinf/troisieme_femme.mp3'/> day of the week?\n<audio src='https://s3.amazonaws.com/trappedinf/troisieme_femme.mp3'/> means third.\nIs it <audio src='https://s3.amazonaws.com/trappedinf/lundi_femme.mp3'/>, <audio src='https://s3.amazonaws.com/trappedinf/mardi_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/trappedinf/mercredi_femme.mp3'/>\nYou can say [[lundi|The closed electrical book]], [[mardi|The closed electrical book]], [[mercredi|The opened electrical book]]?",
+      "links": [
+        {
+          "name": "lundi|The closed electrical book",
+          "link": "lundi|The closed electrical book"
+        },
+        {
+          "name": "mardi|The closed electrical book",
+          "link": "mardi|The closed electrical book"
+        },
+        {
+          "name": "mercredi|The opened electrical book",
+          "link": "mercredi|The opened electrical book"
+        }
+      ],
+      "name": "Third code of the electrical book",
+      "pid": "157",
+      "position": {
+        "x": "344",
+        "y": "4350"
+      }
+    },
+    {
+      "text": "Double-click this passage to edit it.",
+      "name": "The closed electrical book",
+      "pid": "158",
+      "position": {
+        "x": "489",
+        "y": "4462"
+      }
+    },
+    {
+      "text": "Bravo now you see:\nding\na drawing of a girl, a cat, and a mouse in this order. To the taller to the smaller.\nUnder it it's written <audio src='https://s3.amazonaws.com/trappedinf/une_fille_un_chat_une_souris_femme.mp3'/>\nSo that must mean: <audio src='https://s3.amazonaws.com/trappedinf/une_fille_femme.mp3'/> is a girl.\n<audio src='https://s3.amazonaws.com/trappedinf/un_chat_femme.mp3'/> is a cat and <audio src='https://s3.amazonaws.com/trappedinf/une_souris_femme.mp3'/> is a mouse.\nSo the order is: a girl, a cat, a mouse.\nNow you can look at the bottom of the bookcase, say [[en bas|At the bottom of the bookcase]]",
+      "links": [
+        {
+          "name": "en bas|At the bottom of the bookcase",
+          "link": "en bas|At the bottom of the bookcase"
+        }
+      ],
+      "name": "The opened electrical book",
+      "pid": "159",
+      "position": {
+        "x": "341",
+        "y": "4460"
+      }
+    },
+    {
+      "text": "You see a box with figurines on the top. There is a mouse <audio src='https://s3.amazonaws.com/trappedinf/une_souris_femme.mp3'/>, a cat <audio src='https://s3.amazonaws.com/trappedinf/un_chat_femme.mp3'/> and a girl <audio src='https://s3.amazonaws.com/trappedinf/une_fille_femme.mp3'/>\nYou try to open it but it won't open. You need to place the figurines in the correct order so the box will open.\nFirst you need to take the figurines. Say <audio src='https://s3.amazonaws.com/trappedinf/prendre_femme.mp3'/> which is take in French.\nSay [[prendre|First figurine of the box]]. ",
+      "links": [
+        {
+          "name": "prendre|First figurine of the box",
+          "link": "prendre|First figurine of the box"
+        }
+      ],
+      "name": "At the bottom of the bookcase",
+      "pid": "160",
+      "position": {
+        "x": "421",
+        "y": "4573"
+      }
+    },
+    {
+      "text": "What is the first figurine you want to put back on the box? \n<audio src='https://s3.amazonaws.com/trappedinf/une_fille_femme.mp3'/>, <audio src='https://s3.amazonaws.com/trappedinf/un_chat_femme.mp3'/>, or, <audio src='https://s3.amazonaws.com/trappedinf/une_souris_femme.mp3'/> \nYou can say: [[fille|Second figurine of the box]], [[chat|The second figurine of the box]], [[souris|The second figurine of the box]].",
+      "links": [
+        {
+          "name": "fille|Second figurine of the box",
+          "link": "fille|Second figurine of the box"
+        },
+        {
+          "name": "chat|The second figurine of the box",
+          "link": "chat|The second figurine of the box"
+        },
+        {
+          "name": "souris|The second figurine of the box",
+          "link": "souris|The second figurine of the box"
+        }
+      ],
+      "name": "First figurine of the box",
+      "pid": "161",
+      "position": {
+        "x": "422",
+        "y": "4686"
+      }
+    },
+    {
+      "text": "What is the second figurine you want to put back? \n<audio src='https://s3.amazonaws.com/trappedinf/une_fille_un_chat_une_souris_femme.mp3'/>\nYou can say: [[fille|The third figurine of the box]], [[chat|Third figurine of the box]], or [[souris|The third figurine of the box]].",
+      "links": [
+        {
+          "name": "fille|The third figurine of the box",
+          "link": "fille|The third figurine of the box"
+        },
+        {
+          "name": "chat|Third figurine of the box",
+          "link": "chat|Third figurine of the box"
+        },
+        {
+          "name": "souris|The third figurine of the box",
+          "link": "souris|The third figurine of the box"
+        }
+      ],
+      "name": "Second figurine of the box",
+      "pid": "162",
+      "position": {
+        "x": "362",
+        "y": "4799"
+      }
+    },
+    {
+      "text": "What is the second figurine you want to put ? \nUne fille, un chat, un rat. \nYou can say: [[fille|The third figurine of the box]], [[chat|The third figurine of the box]], [[rat|The third figurine of the box]].",
+      "links": [
+        {
+          "name": "fille|The third figurine of the box",
+          "link": "fille|The third figurine of the box"
+        },
+        {
+          "name": "chat|The third figurine of the box",
+          "link": "chat|The third figurine of the box"
+        },
+        {
+          "name": "rat|The third figurine of the box",
+          "link": "rat|The third figurine of the box"
+        }
+      ],
+      "name": "The second figurine of the box",
+      "pid": "163",
+      "position": {
+        "x": "482",
+        "y": "4800"
+      }
+    },
+    {
+      "text": "What is the third figurine you want to put ? \nUne fille, un chat, un rat. \nYou can say: [[fille|The closed box of the bookcase]], [[chat|The closed box of the bookcase]], [[rat|The closed box of the bookcase]].",
+      "links": [
+        {
+          "name": "fille|The closed box of the bookcase",
+          "link": "fille|The closed box of the bookcase"
+        },
+        {
+          "name": "chat|The closed box of the bookcase",
+          "link": "chat|The closed box of the bookcase"
+        },
+        {
+          "name": "rat|The closed box of the bookcase",
+          "link": "rat|The closed box of the bookcase"
+        }
+      ],
+      "name": "The third figurine of the box",
+      "pid": "164",
+      "position": {
+        "x": "484",
+        "y": "4909"
+      }
+    },
+    {
+      "text": "What is the third figurine you want to put back? \n<audio src='https://s3.amazonaws.com/trappedinf/une_fille_un_chat_une_souris_femme.mp3'/>\nYou can say: [[fille|The closed box of the bookcase]], [[chat|The closed box of the bookcase]], [[souris|The opened box of the bookcase]].",
+      "links": [
+        {
+          "name": "fille|The closed box of the bookcase",
+          "link": "fille|The closed box of the bookcase"
+        },
+        {
+          "name": "chat|The closed box of the bookcase",
+          "link": "chat|The closed box of the bookcase"
+        },
+        {
+          "name": "souris|The opened box of the bookcase",
+          "link": "souris|The opened box of the bookcase"
+        }
+      ],
+      "name": "Third figurine of the box",
+      "pid": "165",
+      "position": {
+        "x": "362",
+        "y": "4908"
+      }
+    },
+    {
+      "text": "The box won't open because the code was not correct. \nYou can say [[try again]]\n",
+      "links": [
+        {
+          "name": "try again",
+          "link": "try again",
+          "pid": "214"
+        }
+      ],
+      "name": "The closed box of the bookcase",
+      "pid": "166",
+      "position": {
+        "x": "486",
+        "y": "5019"
+      }
+    },
+    {
+      "text": "Bravo!\nThe box opens and you a see a very small bed inside!\nThe bed wakes up and is so happy to see some light!\nHe tells you\n<audio src='https://s3.amazonaws.com/trappedinf/bonjour_je-mappelle_lit_homme.mp3'/>\n<audio src='https://s3.amazonaws.com/trappedinf/lit_femme.mp3'/> means bed in French.\n<audio src='https://s3.amazonaws.com/trappedinf/je_suis_un_garcon_homme.mp3'/> Which means: I am a boy.\nTo say bonjour to Lit, you can say <audio src='https://s3.amazonaws.com/trappedinf/dire_bonjour_femme.mp3'/> which means: say hello.\nSay [[dire bonjour|The bedroom is unlocked]]",
+      "links": [
+        {
+          "name": "dire bonjour|The bedroom is unlocked",
+          "link": "dire bonjour|The bedroom is unlocked"
+        }
+      ],
+      "name": "The opened box of the bookcase",
+      "pid": "167",
+      "position": {
+        "x": "362",
+        "y": "5014"
+      }
+    },
+    {
+      "text": "Bravo you unlocked the bedroom and you freed the bed!",
+      "name": "Back to the first floor",
+      "pid": "168",
+      "position": {
+        "x": "364",
+        "y": "5228"
+      }
+    },
+    {
+      "text": "On the left you see a counter with a lot of documents on it. And next to it you see an oven.\nDo you want to look at [[documents|The documents of the kitchen]]? Or look at the [[oven|The oven of the kitchen]]?",
+      "links": [
+        {
+          "name": "documents|The documents of the kitchen",
+          "link": "documents|The documents of the kitchen"
+        },
+        {
+          "name": "oven|The oven of the kitchen",
+          "link": "oven|The oven of the kitchen"
+        }
+      ],
+      "name": "Counter of the kitchen",
+      "pid": "169",
+      "position": {
+        "x": "1064",
+        "y": "4015"
+      }
+    },
+    {
+      "text": "On the right, you see a fridge, you open it.\nInside you see a box with a lock on it. \nIf you want to start to open the box, say <audio src='https://s3.amazonaws.com/trappedinf/commencer_femme.mp3'/> which means start in French.\nOtherwise, if you didn't see any number clue yet, you look left. \nYou can say [[commencer|First code of the lock in the kitchen]] or [[gauche|Counter of the kitchen]]",
+      "links": [
+        {
+          "name": "commencer|First code of the lock in the kitchen",
+          "link": "commencer|First code of the lock in the kitchen"
+        },
+        {
+          "name": "gauche|Counter of the kitchen",
+          "link": "gauche|Counter of the kitchen"
+        }
+      ],
+      "name": "Fridge of the kitchen",
+      "pid": "170",
+      "position": {
+        "x": "1199",
+        "y": "4015"
+      }
+    },
+    {
+      "text": "You look at the documents. You find a calender. Under <audio src='https://s3.amazonaws.com/trappedinf/jeudi_femme.mp3'/> which means Thursday in French you see a picture of a mom which is <audio src='https://s3.amazonaws.com/trappedinf/maman_femme.mp3'/> in French. \n\nAnd under <audio src='https://s3.amazonaws.com/trappedinf/vendredi_femme.mp3'/> which means Friday, you see a picture of a dad which is <audio src='https://s3.amazonaws.com/trappedinf/papa_femme.mp3'/> in French. \n\nThat must mean that on Thursday, the person sees their mom and on Friday, they see their dad. \n\nNow you can look at the [[oven|The oven of the kitchen]].",
+      "links": [
+        {
+          "name": "oven|The oven of the kitchen",
+          "link": "oven|The oven of the kitchen"
+        }
+      ],
+      "name": "The documents of the kitchen",
+      "pid": "171",
+      "position": {
+        "x": "1016",
+        "y": "4129"
+      }
+    },
+    {
+      "text": "You try to open the oven but it's stuck. On the oven you see a touchscreen. There is an agenda on it and you need to place the correct schedule. If you are ready say <audio src='https://s3.amazonaws.com/trappedinf/commencer_femme.mp3'/>, which means start in french. \nOtherwise, if you didn't see any clue yet say look at documents\nSay [[commencer|First code of the oven]] or [[documents|The documents of the kitchen]].",
+      "links": [
+        {
+          "name": "commencer|First code of the oven",
+          "link": "commencer|First code of the oven"
+        },
+        {
+          "name": "documents|The documents of the kitchen",
+          "link": "documents|The documents of the kitchen"
+        }
+      ],
+      "name": "The oven of the kitchen",
+      "pid": "172",
+      "position": {
+        "x": "1018",
+        "y": "4241"
+      }
+    },
+    {
+      "text": "And he tells you <audio src='https://s3.amazonaws.com/trappedinf/merci_beaucoup_et_enchante_homme.mp3'/> Thank you so much and nice to meet you.\nAfter having met and talked a little bit with you. \nHe tells you <audio src='https://s3.amazonaws.com/trappedinf/bonne_soiree_homme.mp3'/>, which means: good evening.\nSay [[bonne soirée|Back to the first floor]] to Lit.",
+      "links": [
+        {
+          "name": "bonne soirée|Back to the first floor",
+          "link": "bonne soirée|Back to the first floor"
+        }
+      ],
+      "name": "The bedroom is unlocked",
+      "pid": "173",
+      "position": {
+        "x": "365",
+        "y": "5122"
+      }
+    },
+    {
+      "text": "You need to place the photos on the correct days of the week. You recognize the word <audio src='https://s3.amazonaws.com/trappedinf/jeudi_femme.mp3'/> which means Thursday and <audio src='https://s3.amazonaws.com/trappedinf/vendredi_femme.mp3'/> which means Friday. And you see a photo of the mom and one of the dad.\nWhich photo do you want to put for <audio src='https://s3.amazonaws.com/trappedinf/jeudi_femme.mp3'/> \n<audio src='https://s3.amazonaws.com/trappedinf/maman_femme.mp3'/> or <audio src='https://s3.amazonaws.com/trappedinf/papa_femme.mp3'/>\nYou can say [[maman|Second code of the oven]] or [[papa|The second code of the oven]]",
+      "links": [
+        {
+          "name": "maman|Second code of the oven",
+          "link": "maman|Second code of the oven"
+        },
+        {
+          "name": "papa|The second code of the oven",
+          "link": "papa|The second code of the oven"
+        }
+      ],
+      "name": "First code of the oven",
+      "pid": "174",
+      "position": {
+        "x": "1017",
+        "y": "4347"
+      }
+    },
+    {
+      "text": "Which photo do you want to put for <audio src='https://s3.amazonaws.com/trappedinf/vendredi_femme.mp3'/>\n<audio src='https://s3.amazonaws.com/trappedinf/maman_femme.mp3'/> or <audio src='https://s3.amazonaws.com/trappedinf/papa_femme.mp3'/>\nYou can say [[maman|The closed oven of the kitchen]] or [[papa|The opened oven of the kitchen]]",
+      "links": [
+        {
+          "name": "maman|The closed oven of the kitchen",
+          "link": "maman|The closed oven of the kitchen"
+        },
+        {
+          "name": "papa|The opened oven of the kitchen",
+          "link": "papa|The opened oven of the kitchen"
+        }
+      ],
+      "name": "Second code of the oven",
+      "pid": "175",
+      "position": {
+        "x": "941",
+        "y": "4465"
+      }
+    },
+    {
+      "text": "Which picture do you want to put for vendredi? \nMaman or papa?\nYou can say [[maman|The closed oven of the kitchen]] or [[papa|The closed oven of the kitchen]]",
+      "links": [
+        {
+          "name": "maman|The closed oven of the kitchen",
+          "link": "maman|The closed oven of the kitchen"
+        },
+        {
+          "name": "papa|The closed oven of the kitchen",
+          "link": "papa|The closed oven of the kitchen"
+        }
+      ],
+      "name": "The second code of the oven",
+      "pid": "176",
+      "position": {
+        "x": "1068",
+        "y": "4464"
+      }
+    },
+    {
+      "text": "NON",
+      "name": "The closed oven of the kitchen",
+      "pid": "177",
+      "position": {
+        "x": "1066",
+        "y": "4577"
+      }
+    },
+    {
+      "text": "Bravo! \nThe oven opens and you see a code inside. \nThe numbers four, five ,six. Under them it is written: <audio src='https://s3.amazonaws.com/trappedinf/quatre_cinq_six_femme.mp3'/>\nSo that must means four is <audio src='https://s3.amazonaws.com/trappedinf/quatre_femme.mp3'/>\nSay [[quatre|The number foor in the oven]]",
+      "links": [
+        {
+          "name": "quatre|The number foor in the oven",
+          "link": "quatre|The number foor in the oven"
+        }
+      ],
+      "name": "The opened oven of the kitchen",
+      "pid": "178",
+      "position": {
+        "x": "944",
+        "y": "4575"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/trappedinf/quatre_cinq_six_femme.mp3'/>So that must mean five is <audio src='https://s3.amazonaws.com/trappedinf/cinq_femme.mp3'/>\nSay [[cinq|The number five in the oven]]",
+      "links": [
+        {
+          "name": "cinq|The number five in the oven",
+          "link": "cinq|The number five in the oven"
+        }
+      ],
+      "name": "The number foor in the oven",
+      "pid": "179",
+      "position": {
+        "x": "944",
+        "y": "4683"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/trappedinf/quatre_cinq_six_femme.mp3'/>\nSo that must mean six is <audio src='https://s3.amazonaws.com/trappedinf/six_femme.mp3'/>\nSay [[six|The number six in the oven]]",
+      "links": [
+        {
+          "name": "six|The number six in the oven",
+          "link": "six|The number six in the oven"
+        }
+      ],
+      "name": "The number five in the oven",
+      "pid": "180",
+      "position": {
+        "x": "946",
+        "y": "4794"
+      }
+    },
+    {
+      "text": "Bravo!\n<audio src='https://s3.amazonaws.com/trappedinf/quatre_cinq_six_femme.mp3'/>Now you can say [[fermer|Fridge of the kitchen]] to close the oven and go look left. <audio src='https://s3.amazonaws.com/trappedinf/fermer_femme.mp3'/> means to close.",
+      "links": [
+        {
+          "name": "fermer|Fridge of the kitchen",
+          "link": "fermer|Fridge of the kitchen"
+        }
+      ],
+      "name": "The number six in the oven",
+      "pid": "181",
+      "position": {
+        "x": "950",
+        "y": "4903"
+      }
+    },
+    {
+      "text": "What is the first number of the code you want to put on the lock?\n<audio src='https://s3.amazonaws.com/trappedinf/quatre_femme.mp3'/>, <audio src='https://s3.amazonaws.com/trappedinf/cinq_femme.mp3'/> or <audio src='https://s3.amazonaws.com/trappedinf/six_femme.mp3'/>\nYou can say [[quatre|Second code of the lock in the kitchen]] [[cinq|The second code of the lock in the kitchen]] or [[six|The second code of the lock in the kitchen]]",
+      "links": [
+        {
+          "name": "quatre|Second code of the lock in the kitchen",
+          "link": "quatre|Second code of the lock in the kitchen"
+        },
+        {
+          "name": "cinq|The second code of the lock in the kitchen",
+          "link": "cinq|The second code of the lock in the kitchen"
+        },
+        {
+          "name": "six|The second code of the lock in the kitchen",
+          "link": "six|The second code of the lock in the kitchen"
+        }
+      ],
+      "name": "First code of the lock in the kitchen",
+      "pid": "182",
+      "position": {
+        "x": "1252",
+        "y": "4127"
+      }
+    },
+    {
+      "text": "What is the second number?\n<audio src='https://s3.amazonaws.com/trappedinf/quatre_femme.mp3'/>, <audio src='https://s3.amazonaws.com/trappedinf/cinq_femme.mp3'/> or <audio src='https://s3.amazonaws.com/trappedinf/six_femme.mp3'/> \nYou can say [[quatre|The third code of the lock in the kitchen]] [[cinq|Third code of the lock in the kitchen]] or [[six|The third code of the lock in the kitchen]]",
+      "links": [
+        {
+          "name": "quatre|The third code of the lock in the kitchen",
+          "link": "quatre|The third code of the lock in the kitchen"
+        },
+        {
+          "name": "cinq|Third code of the lock in the kitchen",
+          "link": "cinq|Third code of the lock in the kitchen"
+        },
+        {
+          "name": "six|The third code of the lock in the kitchen",
+          "link": "six|The third code of the lock in the kitchen"
+        }
+      ],
+      "name": "Second code of the lock in the kitchen",
+      "pid": "183",
+      "position": {
+        "x": "1198",
+        "y": "4241"
+      }
+    },
+    {
+      "text": "What is the second number?\nQuatre, cinq or six. \nYou can say [[quatre|The third code of the lock in the kitchen]] [[cinq|The third code of the lock in the kitchen]] or [[six|The third code of the lock in the kitchen]]",
+      "links": [
+        {
+          "name": "quatre|The third code of the lock in the kitchen",
+          "link": "quatre|The third code of the lock in the kitchen"
+        },
+        {
+          "name": "cinq|The third code of the lock in the kitchen",
+          "link": "cinq|The third code of the lock in the kitchen"
+        },
+        {
+          "name": "six|The third code of the lock in the kitchen",
+          "link": "six|The third code of the lock in the kitchen"
+        }
+      ],
+      "name": "The second code of the lock in the kitchen",
+      "pid": "184",
+      "position": {
+        "x": "1317",
+        "y": "4242"
+      }
+    },
+    {
+      "text": "What is the third number code you want to type?\nQuatre, cinq or six. \nYou can say [[quatre|The closed lock of the kitchen]] [[cinq|The closed lock of the kitchen]] or [[six|The closed lock of the kitchen]]",
+      "links": [
+        {
+          "name": "quatre|The closed lock of the kitchen",
+          "link": "quatre|The closed lock of the kitchen"
+        },
+        {
+          "name": "cinq|The closed lock of the kitchen",
+          "link": "cinq|The closed lock of the kitchen"
+        },
+        {
+          "name": "six|The closed lock of the kitchen",
+          "link": "six|The closed lock of the kitchen"
+        }
+      ],
+      "name": "The third code of the lock in the kitchen",
+      "pid": "185",
+      "position": {
+        "x": "1316",
+        "y": "4354"
+      }
+    },
+    {
+      "text": "What is the third number code you want to type?\n<audio src='https://s3.amazonaws.com/trappedinf/quatre_femme.mp3'/>, <audio src='https://s3.amazonaws.com/trappedinf/cinq_femme.mp3'/> or <audio src='https://s3.amazonaws.com/trappedinf/six_femme.mp3'/> \nYou can say [[quatre|The closed lock of the kitchen]] [[cinq|The closed lock of the kitchen]] or [[six|The opened lock of the kitchen]]",
+      "links": [
+        {
+          "name": "quatre|The closed lock of the kitchen",
+          "link": "quatre|The closed lock of the kitchen"
+        },
+        {
+          "name": "cinq|The closed lock of the kitchen",
+          "link": "cinq|The closed lock of the kitchen"
+        },
+        {
+          "name": "six|The opened lock of the kitchen",
+          "link": "six|The opened lock of the kitchen"
+        }
+      ],
+      "name": "Third code of the lock in the kitchen",
+      "pid": "186",
+      "position": {
+        "x": "1198",
+        "y": "4354"
+      }
+    },
+    {
+      "text": "The lock won't open because the code wasn't correct.\nYou can [[try again]]",
+      "links": [
+        {
+          "name": "try again",
+          "link": "try again",
+          "pid": "214"
+        }
+      ],
+      "name": "The closed lock of the kitchen",
+      "pid": "187",
+      "position": {
+        "x": "1316",
+        "y": "4462"
+      }
+    },
+    {
+      "text": "Bravo the lock opens and inside the box you see a key!\n<audio src='https://s3.amazonaws.com/trappedinf/tu_as_la_cle_homme.mp3'/> it means: you have the key. Well done.\n\nYou take <audio src='https://s3.amazonaws.com/myadventurezlatoupan/la_cle_homme.mp3'/> and you open the small door. \nYou see a blue plate! She's so happy you saved her! \nTell her: \"you are blue\". <audio src='https://s3.amazonaws.com/trappedinf/tu_es_bleu_femme.mp3'/>\nSay [[Tu es bleu|The opened small door of the kitchen]].",
+      "links": [
+        {
+          "name": "Tu es bleu|The opened small door of the kitchen",
+          "link": "Tu es bleu|The opened small door of the kitchen"
+        }
+      ],
+      "name": "The opened lock of the kitchen",
+      "pid": "188",
+      "position": {
+        "x": "1200",
+        "y": "4466"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/trappedinf/oui_je_suis_bleu_femme.mp3'/> \n<audio src='https://s3.amazonaws.com/trappedinf/je_mappelle_assiette_femme.mp3'/>, <audio src='https://s3.amazonaws.com/trappedinf/assiette_femme.mp3'/> means plate in French.\nSay speak in French, to keep speaking with <audio src='https://s3.amazonaws.com/trappedinf/assiette_femme.mp3'/>\nSpeak is: <audio src='https://s3.amazonaws.com/trappedinf/parler_femme.mp3'/>\nSay [[parler|The kitchen is unlocked]]",
+      "links": [
+        {
+          "name": "parler|The kitchen is unlocked",
+          "link": "parler|The kitchen is unlocked"
+        }
+      ],
+      "name": "The opened small door of the kitchen",
+      "pid": "189",
+      "position": {
+        "x": "1200",
+        "y": "4576"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/trappedinf/assiette_femme.mp3'/> had a nice time speaking with you and she tells you\n<audio src='https://s3.amazonaws.com/myadventurezlatoupan/merci_beaucoup_femme.mp3'/> Thank you so much.\nBut it is bedtime so she tells you: good night <audio src='https://s3.amazonaws.com/trappedinf/bonne_nuit_femme.mp3'/>\nSay see you soon to <audio src='https://s3.amazonaws.com/trappedinf/assiette_femme.mp3'/>\nSee you soon is <audio src='https://s3.amazonaws.com/trappedinf/a_bientot_femme.mp3'/> \nSay [[à bientôt|To the first floor again]].",
+      "links": [
+        {
+          "name": "à bientôt|To the first floor again",
+          "link": "à bientôt|To the first floor again"
+        }
+      ],
+      "name": "The kitchen is unlocked",
+      "pid": "190",
+      "position": {
+        "x": "1200",
+        "y": "4686"
+      }
+    },
+    {
+      "text": "Bravo you unlocked the cuisine and you freed the plate.",
+      "name": "To the first floor again",
+      "pid": "191",
+      "position": {
+        "x": "1200",
+        "y": "4799"
+      }
+    },
+    {
+      "text": "[[Second floor]]",
+      "links": [
+        {
+          "name": "Second floor",
+          "link": "Second floor",
+          "pid": "132"
+        }
+      ],
+      "name": "See you soon",
+      "pid": "192",
+      "position": {
+        "x": "1091",
+        "y": "3139"
+      }
+    },
+    {
+      "text": "You go on the left and you see a magazine on the floor. You take it and open it and on one page it's written: \n<audio src='https://s3.amazonaws.com/trappedinf/le_weekend_samedi_dimanche_femme.mp3'/> So that must mean <audio src='https://s3.amazonaws.com/trappedinf/le_weekend_femme.mp3'/> is the weekend in French. \nSaturday is <audio src='https://s3.amazonaws.com/trappedinf/samedi_femme.mp3'/> and Sunday is <audio src='https://s3.amazonaws.com/trappedinf/dimanche_femme.mp3'/>\nSay [[samedi|The opened magazine]]",
+      "links": [
+        {
+          "name": "samedi|The opened magazine",
+          "link": "samedi|The opened magazine"
+        }
+      ],
+      "name": "The magazine of the balcony",
+      "pid": "193",
+      "position": {
+        "x": "1834",
+        "y": "4019"
+      }
+    },
+    {
+      "text": "On the right of <audio src='https://s3.amazonaws.com/trappedinf/le_balcon_femme.mp3'/> there is a nice round table that looks like a clock. The clock has three hands. \nYou need to turn the hands to the correct number in order to open the table. \nIf you didn't see any numbers clue yet, say droite.\nIf you know which number you want to put, say: turn, in French it's <audio src='https://s3.amazonaws.com/trappedinf/tourner_femme.mp3'/>\n\nYou can say [[tourner|The first hand of the lock]] or [[look droite|The magazine of the balcony]].",
+      "links": [
+        {
+          "name": "tourner|The first hand of the lock",
+          "link": "tourner|The first hand of the lock"
+        },
+        {
+          "name": "look droite|The magazine of the balcony",
+          "link": "look droite|The magazine of the balcony"
+        }
+      ],
+      "name": "The table of the balcony",
+      "pid": "194",
+      "position": {
+        "x": "2021",
+        "y": "4022"
+      }
+    },
+    {
+      "text": "Le weekend. Samedi, dimanche. \nSay [[dimanche|The last page of the magazine ]]",
+      "links": [
+        {
+          "name": "dimanche|The last page of the magazine ",
+          "link": "dimanche|The last page of the magazine "
+        }
+      ],
+      "name": "The opened magazine",
+      "pid": "195",
+      "position": {
+        "x": "1834",
+        "y": "4129"
+      }
+    },
+    {
+      "text": "Very good. \n<audio src='https://s3.amazonaws.com/trappedinf/samedi_femme.mp3'/> <audio src='https://s3.amazonaws.com/trappedinf/dimanche_femme.mp3'/>\nYou flip the magazine and at the last page you see a bar code. But the numbers of the bar code are hidden. You need to scratch it to see what is underneath.\nSay [[scratch|The magazine scratched]] to discover the bar code.",
+      "links": [
+        {
+          "name": "scratch|The magazine scratched",
+          "link": "scratch|The magazine scratched"
+        }
+      ],
+      "name": "The last page of the magazine ",
+      "pid": "196",
+      "position": {
+        "x": "1836",
+        "y": "4238"
+      }
+    },
+    {
+      "text": "You scratch the bar code and you see a drawing of a clock and you see the numbers <audio src='https://s3.amazonaws.com/trappedinf/sept_huit_neuf_femme.mp3'/>\nUnder seven it's written <audio src='https://s3.amazonaws.com/trappedinf/sept_femme.mp3'/>\nUnder eight it's written <audio src='https://s3.amazonaws.com/trappedinf/huit_femme.mp3'/>\nUnder nine it's written <audio src='https://s3.amazonaws.com/trappedinf/neuf_femme.mp3'/>\nSo <audio src='https://s3.amazonaws.com/trappedinf/sept_huit_neuf_femme.mp3'/> is sept, huit, neuf.\nSay [[sept huit neuf|The numbers of the bar code]]",
+      "links": [
+        {
+          "name": "sept huit neuf|The numbers of the bar code",
+          "link": "sept huit neuf|The numbers of the bar code"
+        }
+      ],
+      "name": "The magazine scratched",
+      "pid": "197",
+      "position": {
+        "x": "1835",
+        "y": "4349"
+      }
+    },
+    {
+      "text": "Bravo!\n<audio src='https://s3.amazonaws.com/trappedinf/sept_huit_neuf_femme.mp3'/>\nNow, to see the other part of <audio src='https://s3.amazonaws.com/trappedinf/le_balcon_femme.mp3'/> \nSay: go left in French. To go is <audio src='https://s3.amazonaws.com/trappedinf/aller_femme.mp3'/> \nGo left is <audio src='https://s3.amazonaws.com/trappedinf/aller_a_gauche_femme.mp3'/> \nSay [[aller à gauche|The table of the balcony]]",
+      "links": [
+        {
+          "name": "aller à gauche|The table of the balcony",
+          "link": "aller à gauche|The table of the balcony"
+        }
+      ],
+      "name": "The numbers of the bar code",
+      "pid": "198",
+      "position": {
+        "x": "1834",
+        "y": "4453"
+      }
+    },
+    {
+      "text": "Turn the first hands to which number?\n<audio src='https://s3.amazonaws.com/trappedinf/sept_huit_neuf_femme.mp3'/>\nYou can say [[sept|The second hand of the lock]] [[huit|Second hand of the lock]] or [[neuf|Second hand of the lock]].",
+      "links": [
+        {
+          "name": "sept|The second hand of the lock",
+          "link": "sept|The second hand of the lock"
+        },
+        {
+          "name": "huit|Second hand of the lock",
+          "link": "huit|Second hand of the lock"
+        },
+        {
+          "name": "neuf|Second hand of the lock",
+          "link": "neuf|Second hand of the lock"
+        }
+      ],
+      "name": "The first hand of the lock",
+      "pid": "199",
+      "position": {
+        "x": "2022",
+        "y": "4128"
+      }
+    },
+    {
+      "text": "Which number for the second hand?\n<audio src='https://s3.amazonaws.com/trappedinf/sept_huit_neuf_femme.mp3'/>You can say [[sept|Thrid hand of the lock]] [[huit|The third hand of the lock]] or [[neuf|Thrid hand of the lock]].",
+      "links": [
+        {
+          "name": "sept|Thrid hand of the lock",
+          "link": "sept|Thrid hand of the lock"
+        },
+        {
+          "name": "huit|The third hand of the lock",
+          "link": "huit|The third hand of the lock"
+        },
+        {
+          "name": "neuf|Thrid hand of the lock",
+          "link": "neuf|Thrid hand of the lock"
+        }
+      ],
+      "name": "The second hand of the lock",
+      "pid": "200",
+      "position": {
+        "x": "1961",
+        "y": "4239"
+      }
+    },
+    {
+      "text": "Which number for the second hand?\n<audio src='https://s3.amazonaws.com/trappedinf/sept_huit_neuf_femme.mp3'/>You can say [[sept|Thrid hand of the lock]] [[huit|Thrid hand of the lock]] or [[neuf|Thrid hand of the lock]].",
+      "links": [
+        {
+          "name": "sept|Thrid hand of the lock",
+          "link": "sept|Thrid hand of the lock"
+        },
+        {
+          "name": "huit|Thrid hand of the lock",
+          "link": "huit|Thrid hand of the lock"
+        },
+        {
+          "name": "neuf|Thrid hand of the lock",
+          "link": "neuf|Thrid hand of the lock"
+        }
+      ],
+      "name": "Second hand of the lock",
+      "pid": "201",
+      "position": {
+        "x": "2079",
+        "y": "4242"
+      }
+    },
+    {
+      "text": "Which number for the thrid hand?\n<audio src='https://s3.amazonaws.com/trappedinf/sept_huit_neuf_femme.mp3'/>You can say [[sept|The closed lock of the table]] [[huit|The closed lock of the table]] or [[neuf|The closed lock of the table]].",
+      "links": [
+        {
+          "name": "sept|The closed lock of the table",
+          "link": "sept|The closed lock of the table"
+        },
+        {
+          "name": "huit|The closed lock of the table",
+          "link": "huit|The closed lock of the table"
+        },
+        {
+          "name": "neuf|The closed lock of the table",
+          "link": "neuf|The closed lock of the table"
+        }
+      ],
+      "name": "Thrid hand of the lock",
+      "pid": "202",
+      "position": {
+        "x": "2079",
+        "y": "4350"
+      }
+    },
+    {
+      "text": "Which number for the thrid hand?\n<audio src='https://s3.amazonaws.com/trappedinf/sept_huit_neuf_femme.mp3'/>You can say [[sept|The closed lock of the table]] [[huit|The closed lock of the table]] or [[neuf|The opened lock of the table]].",
+      "links": [
+        {
+          "name": "sept|The closed lock of the table",
+          "link": "sept|The closed lock of the table"
+        },
+        {
+          "name": "huit|The closed lock of the table",
+          "link": "huit|The closed lock of the table"
+        },
+        {
+          "name": "neuf|The opened lock of the table",
+          "link": "neuf|The opened lock of the table"
+        }
+      ],
+      "name": "The third hand of the lock",
+      "pid": "203",
+      "position": {
+        "x": "1958",
+        "y": "4347"
+      }
+    },
+    {
+      "text": "NON",
+      "name": "The closed lock of the table",
+      "pid": "204",
+      "position": {
+        "x": "2080",
+        "y": "4458"
+      }
+    },
+    {
+      "text": "Well done!\nThe code was correct. Now, in order for the table to open you need to say open in French. It's <audio src='https://s3.amazonaws.com/trappedinf/ouvrir_femme.mp3'/> \nSay [[ouvrir|The opend table of the balcony]]",
+      "links": [
+        {
+          "name": "ouvrir|The opend table of the balcony",
+          "link": "ouvrir|The opend table of the balcony"
+        }
+      ],
+      "name": "The opened lock of the table",
+      "pid": "205",
+      "position": {
+        "x": "1958",
+        "y": "4455"
+      }
+    },
+    {
+      "text": "The table opens.\n\nInside the table you see a male pink dog. un chien rose Chien means a male dog. \n<audio src='https://s3.amazonaws.com/trappedinf/il_est_rose_femme.mp3'/> that means: it is pink.\n\nNext to the dog, you see an female orange dog. Une chienne orange. Une chienne means a female dog.\n<audio src='https://s3.amazonaws.com/trappedinf/elle_est_orange_femme.mp3'/> that means: it is orange.\n\nSo il means he and elle means she.\n\n<audio src='https://s3.amazonaws.com/trappedinf/il_est_rose_femme.mp3'/> Who is the sentence about?\nThe male dog le chien or the female dog la chienne \nYou can say [[le chien|Inside the table]] or [[la chienne|The inside of the table]]\n\n<audio src=''/> ",
+      "links": [
+        {
+          "name": "le chien|Inside the table",
+          "link": "le chien|Inside the table"
+        },
+        {
+          "name": "la chienne|The inside of the table",
+          "link": "la chienne|The inside of the table"
+        }
+      ],
+      "name": "The opend table of the balcony",
+      "pid": "206",
+      "position": {
+        "x": "1960",
+        "y": "4563"
+      }
+    },
+    {
+      "text": "<audio src='https://s3.amazonaws.com/trappedinf/elle_est_orange_femme.mp3'/> Who is the sentence about?\nLe chien or la chienne \nYou can say [[le chien|The animals of the balcony]] or [[la chienne|Animals of the balcony]]",
+      "links": [
+        {
+          "name": "le chien|The animals of the balcony",
+          "link": "le chien|The animals of the balcony"
+        },
+        {
+          "name": "la chienne|Animals of the balcony",
+          "link": "la chienne|Animals of the balcony"
+        }
+      ],
+      "name": "Inside the table",
+      "pid": "207",
+      "position": {
+        "x": "1899",
+        "y": "4683"
+      }
+    },
+    {
+      "text": "Non! \nIl est rose means it is pink. It's the pink dog. \nThe sentence speak about le chien. \nSay [[le chien|Inside the table]]",
+      "links": [
+        {
+          "name": "le chien|Inside the table",
+          "link": "le chien|Inside the table"
+        }
+      ],
+      "name": "The inside of the table",
+      "pid": "208",
+      "position": {
+        "x": "2009",
+        "y": "4686"
+      }
+    },
+    {
+      "text": "Non! \nelle est orange means it is orange. It's the orange dog. \nThe sentence speak about la chienne. \nSay [[la chèvre|Animals of the balcony]]",
+      "links": [
+        {
+          "name": "la chèvre|Animals of the balcony",
+          "link": "la chèvre|Animals of the balcony"
+        }
+      ],
+      "name": "The animals of the balcony",
+      "pid": "209",
+      "position": {
+        "x": "2008",
+        "y": "4798"
+      }
+    },
+    {
+      "text": "Very good!\nNext to the animals, you see a tape recorder. \nYou click on play and you here. \n\"La chienne, elle a la clé\". \nYou recognize la chienne, the female dog and la clé, the key. \nYou look closer at the goat and you see that it is carrying a key!\n\n\"Elle a la clé\" that must mean it has the key.\n\nSay \"give\" in French to the female dog so it can give you the key.\nGive is: <audio src='https://s3.amazonaws.com/trappedinf/donner_femme.mp3'/> in French.\nSay [[donner|The door of the balcony in unlocked]]",
+      "links": [
+        {
+          "name": "donner|The door of the balcony in unlocked",
+          "link": "donner|The door of the balcony in unlocked"
+        }
+      ],
+      "name": "Animals of the balcony",
+      "pid": "210",
+      "position": {
+        "x": "1898",
+        "y": "4799"
+      }
+    },
+    {
+      "text": "Bravo, the female dog understands you and gives you the key!\nYou open the door and you see a chair inside. \nThe chair looks at you amazed! She's so happy to see you and to be saved!\nShe tells you <audio src='https://s3.amazonaws.com/trappedinf/bonsoir_je_mappelle_chaise_femme.mp3'/> That means chair in French. \nShe tells you thank you so much and she's asking you if you can help her one last time.\nSay okay in French to help her. <audio src='https://s3.amazonaws.com/trappedinf/daccord_femme.mp3'/>\nSay [[d'accord|The balcony is unlocked]]",
+      "links": [
+        {
+          "name": "d'accord|The balcony is unlocked",
+          "link": "d'accord|The balcony is unlocked"
+        }
+      ],
+      "name": "The door of the balcony in unlocked",
+      "pid": "211",
+      "position": {
+        "x": "1898",
+        "y": "4911"
+      }
+    },
+    {
+      "text": "She'd like for you to carry le chien the male dog and la chienne the female dog out of the table so she can play with them. \nMerci beaucoup, you are really nice!\nAnd Chaise tells you <audio src='https://s3.amazonaws.com/trappedinf/a_demain_femme.mp3'/> it means see you tomorrow.\nSay [[à demain|Back to the first floor again]] to chaise.",
+      "links": [
+        {
+          "name": "à demain|Back to the first floor again",
+          "link": "à demain|Back to the first floor again"
+        }
+      ],
+      "name": "The balcony is unlocked",
+      "pid": "212",
+      "position": {
+        "x": "1899",
+        "y": "5019"
+      }
+    },
+    {
+      "text": "Bravo you unlocked le balcon and you freed the chair.",
+      "name": "Back to the first floor again",
+      "pid": "213",
+      "position": {
+        "x": "1900",
+        "y": "5132"
+      }
+    },
+    {
+      "text": "",
+      "name": "try again",
+      "pid": "214",
+      "position": {
+        "x": "482",
+        "y": "5131"
+      }
+    },
+    {
+      "text": "THE END",
+      "name": "continue",
+      "pid": "215",
+      "position": {
+        "x": "399",
+        "y": "2273"
+      }
+    }
+  ],
+  "name": "Alexa_Trapped_in_the_castle",
+  "startnode": "1",
+  "creator": "Twine",
+  "creator-version": "2.2.1",
+  "ifid": "B05690F8-8A55-4200-A424-4AF5884EE0A0"
+}
